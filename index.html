@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>🦦 Conflict Monitor - OtterU</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #e0e0e0;
+            min-height: 100vh;
+            padding: 0;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 430px;
+            margin: 0 auto;
+            padding: 20px 16px;
+        }
+        header {
+            text-align: center;
+            padding: 20px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            margin-bottom: 20px;
+        }
+        h1 {
+            font-size: 24px;
+            margin-bottom: 8px;
+            color: #4fc3f7;
+        }
+        .last-update {
+            font-size: 14px;
+            color: #aaa;
+            margin-bottom: 6px;
+        }
+        .next-update {
+            font-size: 12px;
+            color: #888;
+            background: rgba(255,255,255,0.05);
+            padding: 6px 12px;
+            border-radius: 12px;
+            display: inline-block;
+            margin-top: 8px;
+        }
+        .report-count {
+            font-size: 16px;
+            color: #81c784;
+            margin: 10px 0;
+        }
+        .news-list {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        .news-item {
+            background: rgba(255,255,255,0.08);
+            border-radius: 14px;
+            padding: 16px;
+            border: 1px solid rgba(255,255,255,0.05);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .news-item:active {
+            transform: scale(0.98);
+            box-shadow: 0 4px 12px rgba(79, 195, 247, 0.2);
+        }
+        .news-source {
+            font-size: 12px;
+            color: #4fc3f7;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 6px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .news-source::before { content: "📌"; }
+        .news-title {
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: #fff;
+            line-height: 1.4;
+        }
+        .news-summary {
+            font-size: 14px;
+            color: #bbb;
+            margin-bottom: 10px;
+        }
+        .news-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 12px;
+            color: #888;
+        }
+        .news-link {
+            color: #4fc3f7;
+            text-decoration: none;
+            font-weight: 500;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+        .news-link::after { content: "↗"; font-size: 12px; }
+        .trust-badge {
+            background: rgba(76, 175, 80, 0.2);
+            color: #81c784;
+            padding: 2px 8px;
+            border-radius: 8px;
+            font-size: 11px;
+        }
+        .news-sources {
+            margin-top: 8px;
+            padding-top: 8px;
+            border-top: 1px dashed rgba(255,255,255,0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 30px 0;
+            color: #666;
+            font-size: 12px;
+        }
+        .download-btn {
+            display: inline-block;
+            background: linear-gradient(135deg, #4fc3f7 0%, #29b6f6 100%);
+            color: #fff;
+            text-decoration: none;
+            padding: 12px 24px;
+            border-radius: 25px;
+            font-weight: 600;
+            margin: 20px 0;
+            box-shadow: 0 4px 12px rgba(79, 195, 247, 0.3);
+            transition: transform 0.2s;
+        }
+        .download-btn:active { transform: scale(0.95); }
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #4fc3f7;
+        }
+        .spinner {
+            width: 40px; height: 40px;
+            border: 3px solid rgba(79,195,247,0.3);
+            border-top-color: #4fc3f7;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        @media (max-width: 380px) {
+            .container { padding: 12px; }
+            h1 { font-size: 20px; }
+            .news-title { font-size: 15px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🦦 Conflict Monitor</h1>
+            <div class="last-update" id="lastUpdate">Đang tải...</div>
+            <div class="next-update" id="nextUpdate">Cập nhật tiếp theo: --:--</div>
+        </header>
+
+        <div id="loading" class="loading">
+            <div class="spinner"></div>
+            <p>Đang tải báo cáo...</p>
+        </div>
+
+        <div id="content" style="display: none;">
+            <div class="report-count" id="reportCount"></div>
+            <a class="download-btn" href="https://drive.google.com/drive/folders/1l0P31Ic89iEmEVg0Hw9sgUKJZx0TGtfP" target="_blank">
+                📂 Xem toàn bộ báo cáo trên Drive
+            </a>
+            <div class="news-list" id="newsList"></div>
+        </div>
+
+        <footer>
+            <p>OtterU Daily Monitor • Auto-update mỗi giờ</p>
+            <p style="margin-top: 4px; font-size: 10px;">Data from Brave Search</p>
+        </footer>
+    </div>
+
+    <script>
+        async function loadReport() {
+            try {
+                const response = await fetch('latest_report.json?ts=' + Date.now(), { cache: 'no-store' });
+                if (!response.ok) throw new Error('Network response was not ok');
+                const data = await response.json();
+
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('content').style.display = 'block';
+
+                renderFromJSON(data);
+
+            } catch (error) {
+                console.error('Error loading report:', error);
+                document.getElementById('loading').innerHTML = `
+                    <p style="color: #ff6b6b;">Không thể tải báo cáo</p>
+                    <p style="font-size: 12px; margin-top: 8px;">Vui lòng thử lại sau</p>
+                `;
+            }
+        }
+
+        function renderFromJSON(data) {
+            const items = data.grouped_items || [];
+            const list = document.getElementById('newsList');
+            list.innerHTML = items.map(item => {
+                const firstSource = item.sources[0];
+                const sourcesHtml = item.sources.map(src => `
+                    <div style="font-size:12px; margin-top:4px;">
+                        <a href="${src.url}" target="_blank" class="news-link">${src.name}</a>
+                        ${src.age ? `<span style="color:#888;"> ${src.age}</span>` : ''}
+                    </div>
+                `).join('');
+                return `
+                    <div class="news-item">
+                        <div class="news-source">${firstSource ? firstSource.name : 'Unknown'}</div>
+                        <div class="news-title">${item.title_vi || item.title}</div>
+                        ${item.snippet_vi ? `<div class="news-summary">${item.snippet_vi}</div>` : ''}
+                        <div class="news-meta">
+                            ${item.sources.length > 1 ? `<span class="trust-badge">${item.sources.length} nguồn</span>` : ''}
+                        </div>
+                        <div class="news-sources">
+                            ${sourcesHtml}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            document.getElementById('reportCount').textContent = `📊 Tìm thấy ${data.total_original} tin → ${data.total_grouped} nhóm`;
+            document.getElementById('lastUpdate').textContent = `Cập nhật: ${data.generated_at}`;
+
+            const now = new Date();
+            const next = new Date(now.getTime() + 60 * 60 * 1000);
+            document.getElementById('nextUpdate').textContent = `Cập nhật tiếp theo: ${next.getHours().toString().padStart(2,'0')}:${next.getMinutes().toString().padStart(2,'0')}`;
+        }
+
+        setInterval(loadReport, 5 * 60 * 1000);
+        loadReport();
+
+        setTimeout(() => {
+            if (document.getElementById('loading').style.display !== 'none') {
+                location.reload();
+            }
+        }, 10000);
+    </script>
+</body>
+</html>
