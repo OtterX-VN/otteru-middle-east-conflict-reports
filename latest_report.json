@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24 23:47",
+  "generated_at": "2026-03-24 23:49",
   "timezone": "UTC+7",
   "total_original": 12,
   "total_grouped": 11,
@@ -9,7 +9,7 @@
       "snippet": "",
       "sources": [
         {
-          "name": "Unknown",
+          "name": "bbc.com",
           "url": "https://www.bbc.com/news/world/middle_east",
           "age": "2 giờ trước",
           "title": "Middle East | Latest News & Updates | BBC News"
@@ -17,16 +17,16 @@
       ],
       "url": "https://www.bbc.com/news/world/middle_east",
       "trust_boost": 2,
+      "display_source": "bbc.com",
       "title_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC",
-      "snippet_vi": "",
-      "display_source": "Unknown"
+      "snippet_vi": ""
     },
     {
       "title": "US-Israel war on Iran | US-Israel war on Iran | Today's latest from Al Jazeera",
       "snippet": "",
       "sources": [
         {
-          "name": "Unknown",
+          "name": "aljazeera.com",
           "url": "https://www.aljazeera.com/tag/israel-iran-conflict/",
           "age": "",
           "title": "US-Israel war on Iran | US-Israel war on Iran | Today's latest from Al Jazeera"
@@ -34,16 +34,16 @@
       ],
       "url": "https://www.aljazeera.com/tag/israel-iran-conflict/",
       "trust_boost": 2,
+      "display_source": "aljazeera.com",
       "title_vi": "Chiến tranh Mỹ-Israel ở Iran | Chiến tranh Mỹ-Israel ở Iran | Thông tin mới nhất hôm nay từ Al Jazeera",
-      "snippet_vi": "",
-      "display_source": "Unknown"
+      "snippet_vi": ""
     },
     {
       "title": "Trump news at a glance: president touts ‘strong talks’ with Iran that Iran says have not happened | Trump administration | The Guardian",
       "snippet": "",
       "sources": [
         {
-          "name": "Unknown",
+          "name": "theguardian.com",
           "url": "https://www.theguardian.com/us-news/2026/mar/23/trump-news-latest-updates-today",
           "age": "2 giờ trước",
           "title": "Trump news at a glance: president touts ‘strong talks’ with Iran that Iran says have not happened | Trump administration | The Guardian"
@@ -51,16 +51,16 @@
       ],
       "url": "https://www.theguardian.com/us-news/2026/mar/23/trump-news-latest-updates-today",
       "trust_boost": 2,
+      "display_source": "theguardian.com",
       "title_vi": "Sơ lược tin tức về Trump: tổng thống chào mời 'các cuộc đàm phán mạnh mẽ' với Iran mà Iran nói rằng chưa xảy ra | chính quyền Trump | Người bảo vệ",
-      "snippet_vi": "",
-      "display_source": "Unknown"
+      "snippet_vi": ""
     },
     {
       "title": "Day 24 of Middle East conflict — Iran denies any dialogue with Washington after Trump announcement | CNN",
       "snippet": "",
       "sources": [
         {
-          "name": "Unknown",
+          "name": "cnn.com",
           "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-23-26",
           "age": "12 giờ trước",
           "title": "Day 24 of Middle East conflict — Iran denies any dialogue with Washington after Trump announcement | CNN"
@@ -68,16 +68,16 @@
       ],
       "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-23-26",
       "trust_boost": 1,
+      "display_source": "cnn.com",
       "title_vi": "Ngày thứ 24 của xung đột ở Trung Đông – Iran phủ nhận mọi cuộc đối thoại với Washington sau thông báo của Trump | CNN",
-      "snippet_vi": "",
-      "display_source": "Unknown"
+      "snippet_vi": ""
     },
     {
       "title": "Iran war latest: Tehran vows to fight 'until complete victory' - as Trump mocked in online post | World News | Sky News",
       "snippet": "",
       "sources": [
         {
-          "name": "Unknown",
+          "name": "news.sky.com",
           "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
           "age": "1 giờ trước",
           "title": "Iran war latest: Tehran vows to fight 'until complete victory' - as Trump mocked in online post | World News | Sky News"
@@ -85,16 +85,16 @@
       ],
       "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
       "trust_boost": 0,
+      "display_source": "news.sky.com",
       "title_vi": "Chiến tranh Iran mới nhất: Tehran thề sẽ chiến đấu 'cho đến khi chiến thắng hoàn toàn' - như Trump chế nhạo trong bài đăng trực tuyến | Tin Thế Giới | Tin tức bầu trời",
-      "snippet_vi": "",
-      "display_source": "Unknown"
+      "snippet_vi": ""
     },
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
       "snippet": "",
       "sources": [
         {
-          "name": "Unknown",
+          "name": "tiktok.com",
           "url": "https://www.tiktok.com/@prestonstew/video/7618376431936097566",
           "age": "",
           "title": "Allies reject Trump’s request for help in the Middle East  | TikTok"
@@ -102,16 +102,16 @@
       ],
       "url": "https://www.tiktok.com/@prestonstew/video/7618376431936097566",
       "trust_boost": 0,
+      "display_source": "tiktok.com",
       "title_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok",
-      "snippet_vi": "",
-      "display_source": "Unknown"
+      "snippet_vi": ""
     },
     {
       "title": "TRT World - Israel orders bombing of bridges, demolition of homes in Lebanese frontline",
       "snippet": "",
       "sources": [
         {
-          "name": "Unknown",
+          "name": "trtworld.com",
           "url": "https://www.trtworld.com/live/69a2a1d4e4ba8e89ecd092dc",
           "age": "1 giờ trước",
           "title": "TRT World - Israel orders bombing of bridges, demolition of homes in Lebanese frontline"
@@ -119,16 +119,16 @@
       ],
       "url": "https://www.trtworld.com/live/69a2a1d4e4ba8e89ecd092dc",
       "trust_boost": 0,
+      "display_source": "trtworld.com",
       "title_vi": "TRT World - Israel ra lệnh ném bom cầu, phá hủy nhà cửa ở tiền tuyến Lebanon",
-      "snippet_vi": "",
-      "display_source": "Unknown"
+      "snippet_vi": ""
     },
     {
       "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor",
       "snippet": "",
       "sources": [
         {
-          "name": "Unknown",
+          "name": "hormuzstraitmonitor.com",
           "url": "https://hormuzstraitmonitor.com/",
           "age": "",
           "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor"
@@ -136,16 +136,16 @@
       ],
       "url": "https://hormuzstraitmonitor.com/",
       "trust_boost": 0,
+      "display_source": "hormuzstraitmonitor.com",
       "title_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực",
-      "snippet_vi": "",
-      "display_source": "Unknown"
+      "snippet_vi": ""
     },
     {
       "title": "Why Reopening the Strait of Hormuz Will Be Difficult Without A Deal With Iran - The New York Times",
       "snippet": "",
       "sources": [
         {
-          "name": "Unknown",
+          "name": "nytimes.com",
           "url": "https://www.nytimes.com/interactive/2026/03/24/world/middleeast/strait-of-hormuz-difficulties-iran-trump.html",
           "age": "1 giờ trước",
           "title": "Why Reopening the Strait of Hormuz Will Be Difficult Without A Deal With Iran - The New York Times"
@@ -153,16 +153,16 @@
       ],
       "url": "https://www.nytimes.com/interactive/2026/03/24/world/middleeast/strait-of-hormuz-difficulties-iran-trump.html",
       "trust_boost": 0,
+      "display_source": "nytimes.com",
       "title_vi": "Tại sao việc mở lại eo biển Hormuz sẽ khó khăn nếu không có thỏa thuận với Iran",
-      "snippet_vi": "",
-      "display_source": "Unknown"
+      "snippet_vi": ""
     },
     {
       "title": "What the closure of the Strait of Hormuz means for the global economy - Dallasfed.org",
       "snippet": "",
       "sources": [
         {
-          "name": "Unknown",
+          "name": "dallasfed.org",
           "url": "https://www.dallasfed.org/research/economics/2026/0320",
           "age": "",
           "title": "What the closure of the Strait of Hormuz means for the global economy - Dallasfed.org"
@@ -170,22 +170,22 @@
       ],
       "url": "https://www.dallasfed.org/research/economics/2026/0320",
       "trust_boost": 0,
+      "display_source": "dallasfed.org",
       "title_vi": "Việc đóng cửa eo biển Hormuz có ý nghĩa gì đối với nền kinh tế toàn cầu - Dallasfed.org",
-      "snippet_vi": "",
-      "display_source": "Unknown"
+      "snippet_vi": ""
     },
     {
       "title": "US Israel Iran War News Live Updates: Iran missile strikes Bahrain; Moroccan contractor killed, 5 UAE personnel hurt",
       "snippet": "",
       "sources": [
         {
-          "name": "Unknown",
+          "name": "timesofindia.indiatimes.com",
           "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-latest-news-middle-east-crisis-conflict-drone-ballistic-missile-attack-gulf-countries-dubai-qatar-news-donald-trump-netanyahu-strait-of-hormuz-crude-oil/liveblog/129765407.cms",
-          "age": "6 phút trước",
+          "age": "7 phút trước",
           "title": "US Israel Iran War News Live Updates: Iran missile strikes Bahrain; Moroccan contractor killed, 5 UAE personnel hurt"
         },
         {
-          "name": "Unknown",
+          "name": "timesofindia.indiatimes.com",
           "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-latest-news-middle-east-crisis-conflict-drone-ballistic-missile-attack-gulf-countries-dubai-qatar-news-donald-trump-netanyahu-strait-of-hormuz-lpg-tanker-iran-attack-qatar/liveblog/129727558.cms",
           "age": "",
           "title": "US-Israel-Iran War News Live Updates: EAM Jaishankar speaks to US secy Rubio, discusses Iran war & energy security"
@@ -193,9 +193,9 @@
       ],
       "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-latest-news-middle-east-crisis-conflict-drone-ballistic-missile-attack-gulf-countries-dubai-qatar-news-donald-trump-netanyahu-strait-of-hormuz-crude-oil/liveblog/129765407.cms",
       "trust_boost": 0,
+      "display_source": "timesofindia.indiatimes.com",
       "title_vi": "Mỹ Israel Iran Tin tức chiến tranh Cập nhật trực tiếp: Tên lửa Iran tấn công Bahrain; Nhà thầu Maroc thiệt mạng, 5 nhân viên UAE bị thương",
-      "snippet_vi": "",
-      "display_source": "Unknown"
+      "snippet_vi": ""
     }
   ]
 }
