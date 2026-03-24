@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-25 04:01",
+  "generated_at": "2026-03-25 05:00",
   "timezone": "UTC+7",
-  "total_original": 5,
-  "total_grouped": 5,
+  "total_original": 4,
+  "total_grouped": 4,
   "grouped_items": [
     {
       "title": "US-Israel war on Iran | US-Israel war on Iran | Today's latest from Al Jazeera",
@@ -28,7 +28,7 @@
         {
           "name": "cnn.com",
           "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26",
-          "age": "9 phút trước",
+          "age": "12 phút trước",
           "title": "Live updates: Iranian source says US initiated ‘outreach’ to end war, as Israel and Tehran continue to trade strikes | CNN"
         }
       ],
@@ -53,23 +53,6 @@
       "trust_boost": 0,
       "display_source": "tiktok.com",
       "title_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok",
-      "snippet_vi": ""
-    },
-    {
-      "title": "TRT World - Israel orders bombing of bridges, demolition of homes in Lebanese frontline",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "trtworld.com",
-          "url": "https://www.trtworld.com/live/69a2a1d4e4ba8e89ecd092dc",
-          "age": "1 giờ trước",
-          "title": "TRT World - Israel orders bombing of bridges, demolition of homes in Lebanese frontline"
-        }
-      ],
-      "url": "https://www.trtworld.com/live/69a2a1d4e4ba8e89ecd092dc",
-      "trust_boost": 0,
-      "display_source": "trtworld.com",
-      "title_vi": "TRT World - Israel ra lệnh ném bom cầu, phá hủy nhà cửa ở tiền tuyến Lebanon",
       "snippet_vi": ""
     },
     {
