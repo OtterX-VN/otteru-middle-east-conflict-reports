@@ -210,7 +210,6 @@
             const items = data.grouped_items || [];
             const list = document.getElementById('newsList');
             list.innerHTML = items.map(item => {
-                const firstSource = item.sources[0];
                 const sourcesHtml = item.sources.map(src => `
                     <div style="font-size:12px; margin-top:4px;">
                         <a href="${src.url}" target="_blank" class="news-link">${src.name}</a>
@@ -219,7 +218,7 @@
                 `).join('');
                 return `
                     <div class="news-item">
-                        <div class="news-source">${firstSource ? firstSource.name : 'Unknown'}</div>
+                        <div class="news-source">${item.display_source || 'Unknown'}</div>
                         <div class="news-title">${item.title_vi || item.title}</div>
                         ${item.snippet_vi ? `<div class="news-summary">${item.snippet_vi}</div>` : ''}
                         <div class="news-meta">
@@ -235,9 +234,19 @@
             document.getElementById('reportCount').textContent = `📊 Tìm thấy ${data.total_original} tin → ${data.total_grouped} nhóm`;
             document.getElementById('lastUpdate').textContent = `Cập nhật: ${data.generated_at}`;
 
-            const now = new Date();
-            const next = new Date(now.getTime() + 60 * 60 * 1000);
-            document.getElementById('nextUpdate').textContent = `Cập nhật tiếp theo: ${next.getHours().toString().padStart(2,'0')}:${next.getMinutes().toString().padStart(2,'0')}`;
+            // Calculate next update from generated_at + 60 minutes
+            const parts = data.generated_at.split(' ');
+            if (parts.length >= 2) {
+                const [dateStr, timeStr] = parts;
+                const updateDate = new Date(`${dateStr}T${timeStr}:00+07:00`);
+                const nextUpdate = new Date(updateDate.getTime() + 60 * 60 * 1000);
+                const nextStr = `${nextUpdate.getHours().toString().padStart(2,'0')}:${nextUpdate.getMinutes().toString().padStart(2,'0')}`;
+                document.getElementById('nextUpdate').textContent = `Cập nhật tiếp theo: ${nextStr}`;
+            } else {
+                const now = new Date();
+                const next = new Date(now.getTime() + 60 * 60 * 1000);
+                document.getElementById('nextUpdate').textContent = `Cập nhật tiếp theo: ${next.getHours().toString().padStart(2,'0')}:${next.getMinutes().toString().padStart(2,'0')}`;
+            }
         }
 
         setInterval(loadReport, 5 * 60 * 1000);
