@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-03-25 01:39",
+  "generated_at": "2026-03-25 02:00",
   "timezone": "UTC+7",
   "total_original": 7,
   "total_grouped": 7,
   "grouped_items": [
+    {
+      "title": "US-Israel war on Iran | US-Israel war on Iran | Today's latest from Al Jazeera",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "aljazeera.com",
+          "url": "https://www.aljazeera.com/tag/israel-iran-conflict/",
+          "age": "",
+          "title": "US-Israel war on Iran | US-Israel war on Iran | Today's latest from Al Jazeera"
+        }
+      ],
+      "url": "https://www.aljazeera.com/tag/israel-iran-conflict/",
+      "trust_boost": 2,
+      "display_source": "aljazeera.com",
+      "title_vi": "Chiến tranh Mỹ-Israel ở Iran | Chiến tranh Mỹ-Israel ở Iran | Thông tin mới nhất hôm nay từ Al Jazeera",
+      "snippet_vi": ""
+    },
     {
       "title": "Live updates: Iranian source says US initiated ‘outreach’ to end war, as Israel and Tehran continue to trade strikes | CNN",
       "snippet": "",
@@ -11,7 +28,7 @@
         {
           "name": "cnn.com",
           "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26",
-          "age": "11 phút trước",
+          "age": "4 phút trước",
           "title": "Live updates: Iranian source says US initiated ‘outreach’ to end war, as Israel and Tehran continue to trade strikes | CNN"
         }
       ],
@@ -39,30 +56,13 @@
       "snippet_vi": ""
     },
     {
-      "title": "Iran War Live Updates: Tehran Fires Missiles at Israel After Trump Claims Progress on Talks - The New York Times",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil",
-          "age": "5 phút trước",
-          "title": "Iran War Live Updates: Tehran Fires Missiles at Israel After Trump Claims Progress on Talks - The New York Times"
-        }
-      ],
-      "url": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil",
-      "trust_boost": 0,
-      "display_source": "nytimes.com",
-      "title_vi": "Cập nhật trực tiếp về Chiến tranh Iran: Tehran bắn tên lửa vào Israel sau khi Trump tuyên bố tiến bộ trong các cuộc đàm phán",
-      "snippet_vi": ""
-    },
-    {
       "title": "TRT World - Israel orders bombing of bridges, demolition of homes in Lebanese frontline",
       "snippet": "",
       "sources": [
         {
           "name": "trtworld.com",
           "url": "https://www.trtworld.com/live/69a2a1d4e4ba8e89ecd092dc",
-          "age": "44 phút trước",
+          "age": "1 giờ trước",
           "title": "TRT World - Israel orders bombing of bridges, demolition of homes in Lebanese frontline"
         }
       ],
