@@ -1,24 +1,58 @@
 {
-  "generated_at": "2026-03-25 00:32",
+  "generated_at": "2026-03-25 01:15",
   "timezone": "UTC+7",
-  "total_original": 13,
-  "total_grouped": 12,
+  "total_original": 18,
+  "total_grouped": 18,
   "grouped_items": [
     {
-      "title": "US-Israel war on Iran | US-Israel war on Iran | Today's latest from Al Jazeera",
+      "title": "Middle East | Latest News & Updates | BBC News",
       "snippet": "",
       "sources": [
         {
-          "name": "aljazeera.com",
-          "url": "https://www.aljazeera.com/tag/israel-iran-conflict/",
-          "age": "",
-          "title": "US-Israel war on Iran | US-Israel war on Iran | Today's latest from Al Jazeera"
+          "name": "bbc.com",
+          "url": "https://www.bbc.com/news/world/middle_east",
+          "age": "4 giờ trước",
+          "title": "Middle East | Latest News & Updates | BBC News"
         }
       ],
-      "url": "https://www.aljazeera.com/tag/israel-iran-conflict/",
+      "url": "https://www.bbc.com/news/world/middle_east",
       "trust_boost": 2,
-      "display_source": "aljazeera.com",
-      "title_vi": "Chiến tranh Mỹ-Israel ở Iran | Chiến tranh Mỹ-Israel ở Iran | Thông tin mới nhất hôm nay từ Al Jazeera",
+      "display_source": "bbc.com",
+      "title_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC",
+      "snippet_vi": ""
+    },
+    {
+      "title": "US-Israel war with Iran | Latest News and Updates | BBC News",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "bbc.com",
+          "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
+          "age": "7 giờ trước",
+          "title": "US-Israel war with Iran | Latest News and Updates | BBC News"
+        }
+      ],
+      "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
+      "trust_boost": 2,
+      "display_source": "bbc.com",
+      "title_vi": "Chiến tranh Mỹ-Israel với Iran | Tin tức và cập nhật mới nhất | tin tức BBC",
+      "snippet_vi": ""
+    },
+    {
+      "title": "Trump says Iran has 'one more chance at peace' as Tehran calls reports of US talks 'fake news' - BBC News",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "bbc.com",
+          "url": "https://www.bbc.com/news/live/ce35wke27ynt",
+          "age": "15 giờ trước",
+          "title": "Trump says Iran has 'one more chance at peace' as Tehran calls reports of US talks 'fake news' - BBC News"
+        }
+      ],
+      "url": "https://www.bbc.com/news/live/ce35wke27ynt",
+      "trust_boost": 2,
+      "display_source": "bbc.com",
+      "title_vi": "Trump nói Iran có 'thêm một cơ hội hòa bình' khi Tehran gọi các báo cáo về cuộc đàm phán với Mỹ là 'tin giả' - BBC News",
       "snippet_vi": ""
     },
     {
@@ -28,7 +62,7 @@
         {
           "name": "theguardian.com",
           "url": "https://www.theguardian.com/world/2026/mar/23/trump-extends-iran-deadline-five-days-energy-infrastructure",
-          "age": "11 giờ trước",
+          "age": "12 giờ trước",
           "title": "Trump claims ‘productive’ talks with Iran but Tehran denies contact | US-Israel war on Iran | The Guardian"
         }
       ],
@@ -39,13 +73,47 @@
       "snippet_vi": ""
     },
     {
+      "title": "Trump news at a glance: president touts ‘strong talks’ with Iran that Iran says have not happened | Trump administration | The Guardian",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "theguardian.com",
+          "url": "https://www.theguardian.com/us-news/2026/mar/23/trump-news-latest-updates-today",
+          "age": "4 giờ trước",
+          "title": "Trump news at a glance: president touts ‘strong talks’ with Iran that Iran says have not happened | Trump administration | The Guardian"
+        }
+      ],
+      "url": "https://www.theguardian.com/us-news/2026/mar/23/trump-news-latest-updates-today",
+      "trust_boost": 2,
+      "display_source": "theguardian.com",
+      "title_vi": "Sơ lược tin tức về Trump: tổng thống chào mời 'các cuộc đàm phán mạnh mẽ' với Iran mà Iran nói rằng chưa xảy ra | chính quyền Trump | Người bảo vệ",
+      "snippet_vi": ""
+    },
+    {
+      "title": "Day 24 of Middle East conflict — Iran denies any dialogue with Washington after Trump announcement | CNN",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "cnn.com",
+          "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-23-26",
+          "age": "14 giờ trước",
+          "title": "Day 24 of Middle East conflict — Iran denies any dialogue with Washington after Trump announcement | CNN"
+        }
+      ],
+      "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-23-26",
+      "trust_boost": 1,
+      "display_source": "cnn.com",
+      "title_vi": "Ngày thứ 24 của xung đột ở Trung Đông – Iran phủ nhận mọi cuộc đối thoại với Washington sau thông báo của Trump | CNN",
+      "snippet_vi": ""
+    },
+    {
       "title": "Live updates: Iranian source says US initiated ‘outreach’ to end war, as Israel and Tehran continue to trade strikes | CNN",
       "snippet": "",
       "sources": [
         {
           "name": "cnn.com",
           "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26",
-          "age": "32 phút trước",
+          "age": "6 phút trước",
           "title": "Live updates: Iranian source says US initiated ‘outreach’ to end war, as Israel and Tehran continue to trade strikes | CNN"
         }
       ],
@@ -53,6 +121,23 @@
       "trust_boost": 1,
       "display_source": "cnn.com",
       "title_vi": "Cập nhật trực tiếp: Nguồn tin Iran cho biết Mỹ đã khởi xướng 'tiếp cận' để chấm dứt chiến tranh khi Israel và Tehran tiếp tục đình công | CNN",
+      "snippet_vi": ""
+    },
+    {
+      "title": "Iran war latest: US 'sending 3,000 more airborne troops' to Middle East - after Iranian victory vow | World News | Sky News",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "news.sky.com",
+          "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
+          "age": "26 phút trước",
+          "title": "Iran war latest: US 'sending 3,000 more airborne troops' to Middle East - after Iranian victory vow | World News | Sky News"
+        }
+      ],
+      "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
+      "trust_boost": 0,
+      "display_source": "news.sky.com",
+      "title_vi": "Chiến tranh Iran mới nhất: Mỹ 'cử thêm 3.000 lính dù' tới Trung Đông - sau lời thề chiến thắng của Iran | Tin Thế Giới | Tin tức bầu trời",
       "snippet_vi": ""
     },
     {
@@ -73,13 +158,30 @@
       "snippet_vi": ""
     },
     {
+      "title": "Iran War Live Updates: Tehran Fires Missiles at Israel After Trump Claims Progress on Talks - The New York Times",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "nytimes.com",
+          "url": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil",
+          "age": "10 phút trước",
+          "title": "Iran War Live Updates: Tehran Fires Missiles at Israel After Trump Claims Progress on Talks - The New York Times"
+        }
+      ],
+      "url": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil",
+      "trust_boost": 0,
+      "display_source": "nytimes.com",
+      "title_vi": "Cập nhật trực tiếp về Chiến tranh Iran: Tehran bắn tên lửa vào Israel sau khi Trump tuyên bố tiến bộ trong các cuộc đàm phán",
+      "snippet_vi": ""
+    },
+    {
       "title": "TRT World - Israel orders bombing of bridges, demolition of homes in Lebanese frontline",
       "snippet": "",
       "sources": [
         {
           "name": "trtworld.com",
           "url": "https://www.trtworld.com/live/69a2a1d4e4ba8e89ecd092dc",
-          "age": "1 giờ trước",
+          "age": "20 phút trước",
           "title": "TRT World - Israel orders bombing of bridges, demolition of homes in Lebanese frontline"
         }
       ],
@@ -90,20 +192,20 @@
       "snippet_vi": ""
     },
     {
-      "title": "Why Reopening the Strait of Hormuz Will Be Difficult Without A Deal With Iran - The New York Times",
+      "title": "At least three vessels exit strait of Hormuz | Latest Market News",
       "snippet": "",
       "sources": [
         {
-          "name": "nytimes.com",
-          "url": "https://www.nytimes.com/interactive/2026/03/24/world/middleeast/strait-of-hormuz-difficulties-iran-trump.html",
-          "age": "2 giờ trước",
-          "title": "Why Reopening the Strait of Hormuz Will Be Difficult Without A Deal With Iran - The New York Times"
+          "name": "argusmedia.com",
+          "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2804704-at-least-three-vessels-exit-strait-of-hormuz",
+          "age": "20 giờ trước",
+          "title": "At least three vessels exit strait of Hormuz | Latest Market News"
         }
       ],
-      "url": "https://www.nytimes.com/interactive/2026/03/24/world/middleeast/strait-of-hormuz-difficulties-iran-trump.html",
+      "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2804704-at-least-three-vessels-exit-strait-of-hormuz",
       "trust_boost": 0,
-      "display_source": "nytimes.com",
-      "title_vi": "Tại sao việc mở lại eo biển Hormuz sẽ khó khăn nếu không có thỏa thuận với Iran",
+      "display_source": "argusmedia.com",
+      "title_vi": "Ít nhất ba tàu rời eo biển Hormuz | Tin tức thị trường mới nhất",
       "snippet_vi": ""
     },
     {
@@ -124,20 +226,37 @@
       "snippet_vi": ""
     },
     {
-      "title": "What the closure of the Strait of Hormuz means for the global economy - Dallasfed.org",
+      "title": "Why Reopening the Strait of Hormuz Will Be Difficult Without A Deal With Iran - The New York Times",
       "snippet": "",
       "sources": [
         {
-          "name": "dallasfed.org",
-          "url": "https://www.dallasfed.org/research/economics/2026/0320",
-          "age": "",
-          "title": "What the closure of the Strait of Hormuz means for the global economy - Dallasfed.org"
+          "name": "nytimes.com",
+          "url": "https://www.nytimes.com/interactive/2026/03/24/world/middleeast/strait-of-hormuz-difficulties-iran-trump.html",
+          "age": "40 phút trước",
+          "title": "Why Reopening the Strait of Hormuz Will Be Difficult Without A Deal With Iran - The New York Times"
         }
       ],
-      "url": "https://www.dallasfed.org/research/economics/2026/0320",
+      "url": "https://www.nytimes.com/interactive/2026/03/24/world/middleeast/strait-of-hormuz-difficulties-iran-trump.html",
       "trust_boost": 0,
-      "display_source": "dallasfed.org",
-      "title_vi": "Việc đóng cửa eo biển Hormuz có ý nghĩa gì đối với nền kinh tế toàn cầu - Dallasfed.org",
+      "display_source": "nytimes.com",
+      "title_vi": "Tại sao việc mở lại eo biển Hormuz sẽ khó khăn nếu không có thỏa thuận với Iran",
+      "snippet_vi": ""
+    },
+    {
+      "title": "Iran War Updates: Trump Approved Iran Strike After Last-Minute Netanyahu Call - Newsweek",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "newsweek.com",
+          "url": "https://www.newsweek.com/iran-war-live-update-power-plant-strikes-warning-trump-deadline-11718848",
+          "age": "18 giờ trước",
+          "title": "Iran War Updates: Trump Approved Iran Strike After Last-Minute Netanyahu Call - Newsweek"
+        }
+      ],
+      "url": "https://www.newsweek.com/iran-war-live-update-power-plant-strikes-warning-trump-deadline-11718848",
+      "trust_boost": 0,
+      "display_source": "newsweek.com",
+      "title_vi": "Cập nhật về chiến tranh Iran: Trump chấp thuận tấn công Iran sau cuộc gọi của Netanyahu vào phút cuối - Newsweek",
       "snippet_vi": ""
     },
     {
@@ -147,7 +266,7 @@
         {
           "name": "cbsnews.com",
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-israel-trump-ultimatum-strait-of-hormuz/",
-          "age": "11 giờ trước",
+          "age": "12 giờ trước",
           "title": "Trump calls off Strait of Hormuz ultimatum as Iran receives U.S. message from mediators"
         }
       ],
@@ -163,55 +282,32 @@
       "sources": [
         {
           "name": "timesofindia.indiatimes.com",
-          "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-latest-news-middle-east-crisis-conflict-drone-ballistic-missile-attack-gulf-countries-dubai-qatar-news-donald-trump-netanyahu-strait-of-hormuz-crude-oil/liveblog/129765407.cms",
-          "age": "51 phút trước",
+          "url": "https://timesofindia.indiatimes.com/us-israel-iran-war-news-live-udates-latest-news-middle-east-crisis-conflict-drone-ballistic-missile-attack-gulf-countries-dubai-qatar-news-donald-trump-netanyahu-strait-of-hormuz-crude-oil/liveblog/129765407.cms",
+          "age": "2 giờ trước",
           "title": "US Israel Iran War News Live Updates: Iran missile strikes Bahrain; Moroccan contractor killed, 5 UAE personnel hurt"
-        },
-        {
-          "name": "timesofindia.indiatimes.com",
-          "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-latest-news-middle-east-crisis-conflict-drone-ballistic-missile-attack-gulf-countries-dubai-qatar-news-donald-trump-netanyahu-strait-of-hormuz-lpg-tanker-iran-attack-qatar/liveblog/129727558.cms",
-          "age": "",
-          "title": "US-Israel-Iran War News Live Updates: EAM Jaishankar speaks to US secy Rubio, discusses Iran war & energy security"
         }
       ],
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-latest-news-middle-east-crisis-conflict-drone-ballistic-missile-attack-gulf-countries-dubai-qatar-news-donald-trump-netanyahu-strait-of-hormuz-crude-oil/liveblog/129765407.cms",
+      "url": "https://timesofindia.indiatimes.com/us-israel-iran-war-news-live-udates-latest-news-middle-east-crisis-conflict-drone-ballistic-missile-attack-gulf-countries-dubai-qatar-news-donald-trump-netanyahu-strait-of-hormuz-crude-oil/liveblog/129765407.cms",
       "trust_boost": 0,
       "display_source": "timesofindia.indiatimes.com",
       "title_vi": "Mỹ Israel Iran Tin tức chiến tranh Cập nhật trực tiếp: Tên lửa Iran tấn công Bahrain; Nhà thầu Maroc thiệt mạng, 5 nhân viên UAE bị thương",
       "snippet_vi": ""
     },
     {
-      "title": "Israel-Iran War Day 25 | Iran, Hezbollah Launch Nonstop Rockets at Northern Israel: One Killed, Four Wounded - Israel Security",
+      "title": "Israel-Iran War Day 25 | Iran, Hezbollah Launch Nonstop Rockets at Northern Israel: One Killed, Six Wounded - Israel Security",
       "snippet": "",
       "sources": [
         {
           "name": "haaretz.com",
           "url": "https://www.haaretz.com/israel-news/israel-security/2026-03-24/ty-article-live/no-injuries-reported-in-overnight-wave-of-iranian-missile-attacks-against-israel/0000019d-1dd0-de2e-a59f-3fd293a20000",
-          "age": "9 phút trước",
-          "title": "Israel-Iran War Day 25 | Iran, Hezbollah Launch Nonstop Rockets at Northern Israel: One Killed, Four Wounded - Israel Security"
+          "age": "23 phút trước",
+          "title": "Israel-Iran War Day 25 | Iran, Hezbollah Launch Nonstop Rockets at Northern Israel: One Killed, Six Wounded - Israel Security"
         }
       ],
       "url": "https://www.haaretz.com/israel-news/israel-security/2026-03-24/ty-article-live/no-injuries-reported-in-overnight-wave-of-iranian-missile-attacks-against-israel/0000019d-1dd0-de2e-a59f-3fd293a20000",
       "trust_boost": 0,
       "display_source": "haaretz.com",
-      "title_vi": "Chiến tranh Israel-Iran Ngày 25 | Iran, Hezbollah phóng tên lửa không ngừng vào miền Bắc Israel: Một người chết, bốn người bị thương - Israel Security",
-      "snippet_vi": ""
-    },
-    {
-      "title": "Twelve Days of Inferno: The Cost of Opening Pandora’s Box | Al Jazeera Centre for Studies",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "studies.aljazeera.net",
-          "url": "https://studies.aljazeera.net/en/analyses/twelve-days-inferno-cost-opening-pandora%E2%80%99s-box",
-          "age": "",
-          "title": "Twelve Days of Inferno: The Cost of Opening Pandora’s Box | Al Jazeera Centre for Studies"
-        }
-      ],
-      "url": "https://studies.aljazeera.net/en/analyses/twelve-days-inferno-cost-opening-pandora%E2%80%99s-box",
-      "trust_boost": 0,
-      "display_source": "studies.aljazeera.net",
-      "title_vi": "Mười hai ngày địa ngục: Chi phí mở hộp Pandora | Trung tâm nghiên cứu Al Jazeera",
+      "title_vi": "Chiến tranh Israel-Iran Ngày 25 | Iran, Hezbollah phóng tên lửa không ngừng vào miền Bắc Israel: Một người chết, sáu người bị thương - Israel Security",
       "snippet_vi": ""
     }
   ]
