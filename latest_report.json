@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-03-25 13:49",
+  "generated_at": "2026-03-25 15:00",
   "timezone": "UTC+7",
-  "total_original": 4,
-  "total_grouped": 4,
+  "total_original": 3,
+  "total_grouped": 3,
   "grouped_items": [
     {
-      "title": "Middle East | Latest News & Updates | BBC News",
+      "title": "Iran war latest: Iran's military mocks Trump - after president handed over 15-point peace plan | World News | Sky News",
       "snippet": "",
       "sources": [
         {
-          "name": "bbc.com",
-          "url": "https://www.bbc.com/news/world/middle_east",
+          "name": "news.sky.com",
+          "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
           "age": "1 giờ trước",
-          "title": "Middle East | Latest News & Updates | BBC News"
+          "title": "Iran war latest: Iran's military mocks Trump - after president handed over 15-point peace plan | World News | Sky News"
         }
       ],
-      "url": "https://www.bbc.com/news/world/middle_east",
-      "trust_boost": 2,
-      "display_source": "bbc.com",
-      "trend": "neutral",
-      "trend_label": "⚪ Trung lập",
-      "title_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC",
-      "summary_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC"
+      "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
+      "trust_boost": 0,
+      "display_source": "news.sky.com",
+      "trend": "up",
+      "trend_label": "🔴 Leo thang",
+      "title_vi": "Chiến tranh Iran mới nhất: Quân đội Iran chế nhạo Trump - sau khi tổng thống bàn giao kế hoạch hòa bình 15 điểm | Tin Thế Giới | Tin tức bầu trời",
+      "summary_vi": "Chiến tranh Iran mới nhất: Quân đội Iran chế nhạo Trump - sau khi tổng thống bàn giao kế hoạch hòa bình 15 điểm |..."
     },
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
@@ -60,25 +60,6 @@
       "trend_label": "⚪ Trung lập",
       "title_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực",
       "summary_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực"
-    },
-    {
-      "title": "Strait of Hormuz - Wikipedia",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "en.wikipedia.org",
-          "url": "https://en.wikipedia.org/wiki/Strait_of_Hormuz",
-          "age": "1 giờ trước",
-          "title": "Strait of Hormuz - Wikipedia"
-        }
-      ],
-      "url": "https://en.wikipedia.org/wiki/Strait_of_Hormuz",
-      "trust_boost": 0,
-      "display_source": "en.wikipedia.org",
-      "trend": "neutral",
-      "trend_label": "⚪ Trung lập",
-      "title_vi": "Eo biển Hormuz - Wikipedia",
-      "summary_vi": "Eo biển Hormuz - Wikipedia"
     }
   ]
 }
