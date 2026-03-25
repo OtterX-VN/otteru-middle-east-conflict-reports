@@ -1,28 +1,9 @@
 {
-  "generated_at": "2026-03-25 08:00",
+  "generated_at": "2026-03-25 09:00",
   "timezone": "UTC+7",
-  "total_original": 7,
-  "total_grouped": 7,
+  "total_original": 8,
+  "total_grouped": 8,
   "grouped_items": [
-    {
-      "title": "US-Israel war with Iran | Latest News and Updates | BBC News",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "bbc.com",
-          "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
-          "age": "1 giờ trước",
-          "title": "US-Israel war with Iran | Latest News and Updates | BBC News"
-        }
-      ],
-      "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
-      "trust_boost": 2,
-      "display_source": "bbc.com",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Mỹ-Israel với Iran | Tin tức và cập nhật mới nhất | tin tức BBC",
-      "summary_vi": "Chiến tranh Mỹ-Israel với Iran | Tin tức và cập nhật mới nhất | tin tức BBC"
-    },
     {
       "title": "US-Israel war on Iran | US-Israel war on Iran | Today's latest from Al Jazeera",
       "snippet": "",
@@ -49,7 +30,7 @@
         {
           "name": "aljazeera.com",
           "url": "https://www.aljazeera.com/news/liveblog/2026/3/24/iran-war-live-tehran-says-trumps-claims-of-peace-talks-fake",
-          "age": "42 phút trước",
+          "age": "51 phút trước",
           "title": "Iran war updates: Trump claims talks ongoing, Iran hits central Israel | US-Israel war on Iran News | Al Jazeera"
         }
       ],
@@ -68,7 +49,7 @@
         {
           "name": "cnn.com",
           "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26",
-          "age": "4 phút trước",
+          "age": "7 phút trước",
           "title": "Live updates: Trump says Vance and Rubio participating in talks with Iran to end war | CNN"
         }
       ],
@@ -119,6 +100,25 @@
       "summary_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực"
     },
     {
+      "title": "Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz - The New York Times",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html",
+          "age": "1 giờ trước",
+          "title": "Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz - The New York Times"
+        }
+      ],
+      "url": "https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html",
+      "trust_boost": 0,
+      "display_source": "nytimes.com",
+      "trend": "neutral",
+      "trend_label": "⚪ Trung lập",
+      "title_vi": "Iran cho biết các tàu 'không thù địch' có thể đi qua eo biển Hormuz",
+      "summary_vi": "Iran cho biết các tàu 'không thù địch' có thể đi qua eo biển Hormuz"
+    },
+    {
       "title": "What the closure of the Strait of Hormuz means for the global economy - Dallasfed.org",
       "snippet": "",
       "sources": [
@@ -136,6 +136,25 @@
       "trend_label": "⚪ Trung lập",
       "title_vi": "Việc đóng cửa eo biển Hormuz có ý nghĩa gì đối với nền kinh tế toàn cầu - Dallasfed.org",
       "summary_vi": "Việc đóng cửa eo biển Hormuz có ý nghĩa gì đối với nền kinh tế toàn cầu - Dallasfed.org"
+    },
+    {
+      "title": "US Israel Iran War News Live Updates: Fire breaks out at Kuwait airport after drones hit fuel tank",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-latest-news-middle-east-crisis-conflict-drone-ballistic-missile-attack-gulf-countries-dubai-qatar-news-donald-trump-netanyahu-strait-of-hormuz-crude-oil/liveblog/129765407.cms",
+          "age": "4 phút trước",
+          "title": "US Israel Iran War News Live Updates: Fire breaks out at Kuwait airport after drones hit fuel tank"
+        }
+      ],
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-latest-news-middle-east-crisis-conflict-drone-ballistic-missile-attack-gulf-countries-dubai-qatar-news-donald-trump-netanyahu-strait-of-hormuz-crude-oil/liveblog/129765407.cms",
+      "trust_boost": 0,
+      "display_source": "timesofindia.indiatimes.com",
+      "trend": "up",
+      "trend_label": "🔴 Leo thang",
+      "title_vi": "Mỹ Israel Iran War News Cập nhật trực tiếp: Hỏa hoạn bùng phát tại sân bay Kuwait sau khi máy bay không người lái đâm vào thùng nhiên liệu",
+      "summary_vi": "Mỹ Israel Iran War News Cập nhật trực tiếp: Hỏa hoạn bùng phát tại sân bay Kuwait sau khi máy bay không người lái..."
     }
   ]
 }
