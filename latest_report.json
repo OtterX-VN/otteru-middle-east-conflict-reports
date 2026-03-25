@@ -1,26 +1,9 @@
 {
-  "generated_at": "2026-03-25 06:00",
+  "generated_at": "2026-03-25 07:00",
   "timezone": "UTC+7",
-  "total_original": 4,
-  "total_grouped": 4,
+  "total_original": 6,
+  "total_grouped": 6,
   "grouped_items": [
-    {
-      "title": "US-Israel war on Iran | US-Israel war on Iran | Today's latest from Al Jazeera",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "aljazeera.com",
-          "url": "https://www.aljazeera.com/tag/israel-iran-conflict/",
-          "age": "",
-          "title": "US-Israel war on Iran | US-Israel war on Iran | Today's latest from Al Jazeera"
-        }
-      ],
-      "url": "https://www.aljazeera.com/tag/israel-iran-conflict/",
-      "trust_boost": 2,
-      "display_source": "aljazeera.com",
-      "title_vi": "Chiến tranh Mỹ-Israel ở Iran | Chiến tranh Mỹ-Israel ở Iran | Thông tin mới nhất hôm nay từ Al Jazeera",
-      "snippet_vi": ""
-    },
     {
       "title": "Live updates: Trump says Vance and Rubio participating in talks with Iran to end war | CNN",
       "snippet": "",
@@ -28,7 +11,7 @@
         {
           "name": "cnn.com",
           "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26",
-          "age": "11 phút trước",
+          "age": "17 phút trước",
           "title": "Live updates: Trump says Vance and Rubio participating in talks with Iran to end war | CNN"
         }
       ],
@@ -56,6 +39,40 @@
       "snippet_vi": ""
     },
     {
+      "title": "Iran War Live Updates: U.S. Is Said to Have Sent Iran a Peace Plan - The New York Times",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "nytimes.com",
+          "url": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil",
+          "age": "44 phút trước",
+          "title": "Iran War Live Updates: U.S. Is Said to Have Sent Iran a Peace Plan - The New York Times"
+        }
+      ],
+      "url": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil",
+      "trust_boost": 0,
+      "display_source": "nytimes.com",
+      "title_vi": "Cập nhật trực tiếp về Chiến tranh Iran: Hoa Kỳ được cho là đã gửi cho Iran một kế hoạch hòa bình",
+      "snippet_vi": ""
+    },
+    {
+      "title": "TRT World - Israel orders bombing of bridges, demolition of homes in Lebanese frontline",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "trtworld.com",
+          "url": "https://www.trtworld.com/live/69a2a1d4e4ba8e89ecd092dc",
+          "age": "1 giờ trước",
+          "title": "TRT World - Israel orders bombing of bridges, demolition of homes in Lebanese frontline"
+        }
+      ],
+      "url": "https://www.trtworld.com/live/69a2a1d4e4ba8e89ecd092dc",
+      "trust_boost": 0,
+      "display_source": "trtworld.com",
+      "title_vi": "TRT World - Israel ra lệnh ném bom cầu, phá hủy nhà cửa ở tiền tuyến Lebanon",
+      "snippet_vi": ""
+    },
+    {
       "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor",
       "snippet": "",
       "sources": [
@@ -70,6 +87,23 @@
       "trust_boost": 0,
       "display_source": "hormuzstraitmonitor.com",
       "title_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực",
+      "snippet_vi": ""
+    },
+    {
+      "title": "What the closure of the Strait of Hormuz means for the global economy - Dallasfed.org",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "dallasfed.org",
+          "url": "https://www.dallasfed.org/research/economics/2026/0320",
+          "age": "",
+          "title": "What the closure of the Strait of Hormuz means for the global economy - Dallasfed.org"
+        }
+      ],
+      "url": "https://www.dallasfed.org/research/economics/2026/0320",
+      "trust_boost": 0,
+      "display_source": "dallasfed.org",
+      "title_vi": "Việc đóng cửa eo biển Hormuz có ý nghĩa gì đối với nền kinh tế toàn cầu - Dallasfed.org",
       "snippet_vi": ""
     }
   ]
