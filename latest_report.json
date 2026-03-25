@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-25 10:01",
+  "generated_at": "2026-03-25 10:24",
   "timezone": "UTC+7",
-  "total_original": 8,
-  "total_grouped": 8,
+  "total_original": 4,
+  "total_grouped": 4,
   "grouped_items": [
     {
       "title": "Trump administration offers 15-point ceasefire plan to Iran | AP News",
@@ -11,7 +11,7 @@
         {
           "name": "apnews.com",
           "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-24-2026-8bb5e79a98ea72fccc5c50b4931ad778",
-          "age": "46 phút trước",
+          "age": "21 phút trước",
           "title": "Trump administration offers 15-point ceasefire plan to Iran | AP News"
         }
       ],
@@ -24,32 +24,13 @@
       "summary_vi": "Chính quyền Trump đưa ra kế hoạch ngừng bắn 15 điểm cho Iran | Tin tức AP"
     },
     {
-      "title": "US-Israel war on Iran | US-Israel war on Iran | Today's latest from Al Jazeera",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "aljazeera.com",
-          "url": "https://www.aljazeera.com/tag/israel-iran-conflict/",
-          "age": "",
-          "title": "US-Israel war on Iran | US-Israel war on Iran | Today's latest from Al Jazeera"
-        }
-      ],
-      "url": "https://www.aljazeera.com/tag/israel-iran-conflict/",
-      "trust_boost": 2,
-      "display_source": "aljazeera.com",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Mỹ-Israel ở Iran | Chiến tranh Mỹ-Israel ở Iran | Thông tin mới nhất hôm nay từ Al Jazeera",
-      "summary_vi": "Chiến tranh Mỹ-Israel ở Iran | Chiến tranh Mỹ-Israel ở Iran | Thông tin mới nhất hôm nay từ Al Jazeera"
-    },
-    {
       "title": "Live updates: Trump says Vance and Rubio participating in talks with Iran to end war | CNN",
       "snippet": "",
       "sources": [
         {
           "name": "cnn.com",
           "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26",
-          "age": "30 phút trước",
+          "age": "1 giờ trước",
           "title": "Live updates: Trump says Vance and Rubio participating in talks with Iran to end war | CNN"
         }
       ],
@@ -98,63 +79,6 @@
       "trend_label": "⚪ Trung lập",
       "title_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực",
       "summary_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực"
-    },
-    {
-      "title": "What the closure of the Strait of Hormuz means for the global economy - Dallasfed.org",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "dallasfed.org",
-          "url": "https://www.dallasfed.org/research/economics/2026/0320",
-          "age": "",
-          "title": "What the closure of the Strait of Hormuz means for the global economy - Dallasfed.org"
-        }
-      ],
-      "url": "https://www.dallasfed.org/research/economics/2026/0320",
-      "trust_boost": 0,
-      "display_source": "dallasfed.org",
-      "trend": "neutral",
-      "trend_label": "⚪ Trung lập",
-      "title_vi": "Việc đóng cửa eo biển Hormuz có ý nghĩa gì đối với nền kinh tế toàn cầu - Dallasfed.org",
-      "summary_vi": "Việc đóng cửa eo biển Hormuz có ý nghĩa gì đối với nền kinh tế toàn cầu - Dallasfed.org"
-    },
-    {
-      "title": "Iran-US war latest: Trump administration reportedly offers Tehran 15-point ceasefire plan as US moves more troops to region | The Independent",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "independent.co.uk",
-          "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-deadline-oil-strait-of-hormuz-b2944254.html",
-          "age": "23 phút trước",
-          "title": "Iran-US war latest: Trump administration reportedly offers Tehran 15-point ceasefire plan as US moves more troops to region | The Independent"
-        }
-      ],
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-deadline-oil-strait-of-hormuz-b2944254.html",
-      "trust_boost": 0,
-      "display_source": "independent.co.uk",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Iran-Mỹ mới nhất: Chính quyền Trump được cho là đưa ra kế hoạch ngừng bắn 15 điểm cho Tehran khi Mỹ chuyển thêm quân tới khu vực | Độc lập",
-      "summary_vi": "Chiến tranh Iran-Mỹ mới nhất: Chính quyền Trump được cho là đưa ra kế hoạch ngừng bắn 15 điểm cho Tehran khi Mỹ..."
-    },
-    {
-      "title": "Israel-Iran War Day 25 | Iran Says U.S. and Israel Attacked Vicinity of Bushehr Nuclear Facility - Israel Security",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "haaretz.com",
-          "url": "https://www.haaretz.com/israel-news/israel-security/2026-03-24/ty-article-live/no-injuries-reported-in-overnight-wave-of-iranian-missile-attacks-against-israel/0000019d-1dd0-de2e-a59f-3fd293a20000",
-          "age": "22 phút trước",
-          "title": "Israel-Iran War Day 25 | Iran Says U.S. and Israel Attacked Vicinity of Bushehr Nuclear Facility - Israel Security"
-        }
-      ],
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-03-24/ty-article-live/no-injuries-reported-in-overnight-wave-of-iranian-missile-attacks-against-israel/0000019d-1dd0-de2e-a59f-3fd293a20000",
-      "trust_boost": 0,
-      "display_source": "haaretz.com",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Israel-Iran Ngày 25 | Iran cáo buộc Mỹ và Israel tấn công khu vực lân cận cơ sở hạt nhân Bushehr - Israel Security",
-      "summary_vi": "Chiến tranh Israel-Iran Ngày 25 | Iran cáo buộc Mỹ và Israel tấn công khu vực lân cận cơ sở hạt nhân Bushehr -..."
     }
   ]
 }
