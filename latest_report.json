@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-25 07:18",
+  "generated_at": "2026-03-25 08:00",
   "timezone": "UTC+7",
-  "total_original": 8,
-  "total_grouped": 8,
+  "total_original": 7,
+  "total_grouped": 7,
   "grouped_items": [
     {
       "title": "US-Israel war with Iran | Latest News and Updates | BBC News",
@@ -11,7 +11,7 @@
         {
           "name": "bbc.com",
           "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
-          "age": "18 phút trước",
+          "age": "1 giờ trước",
           "title": "US-Israel war with Iran | Latest News and Updates | BBC News"
         }
       ],
@@ -24,13 +24,32 @@
       "summary_vi": "Chiến tranh Mỹ-Israel với Iran | Tin tức và cập nhật mới nhất | tin tức BBC"
     },
     {
+      "title": "US-Israel war on Iran | US-Israel war on Iran | Today's latest from Al Jazeera",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "aljazeera.com",
+          "url": "https://www.aljazeera.com/tag/israel-iran-conflict/",
+          "age": "",
+          "title": "US-Israel war on Iran | US-Israel war on Iran | Today's latest from Al Jazeera"
+        }
+      ],
+      "url": "https://www.aljazeera.com/tag/israel-iran-conflict/",
+      "trust_boost": 2,
+      "display_source": "aljazeera.com",
+      "trend": "up",
+      "trend_label": "🔴 Leo thang",
+      "title_vi": "Chiến tranh Mỹ-Israel ở Iran | Chiến tranh Mỹ-Israel ở Iran | Thông tin mới nhất hôm nay từ Al Jazeera",
+      "summary_vi": "Chiến tranh Mỹ-Israel ở Iran | Chiến tranh Mỹ-Israel ở Iran | Thông tin mới nhất hôm nay từ Al Jazeera"
+    },
+    {
       "title": "Iran war updates: Trump claims talks ongoing, Iran hits central Israel | US-Israel war on Iran News | Al Jazeera",
       "snippet": "",
       "sources": [
         {
           "name": "aljazeera.com",
           "url": "https://www.aljazeera.com/news/liveblog/2026/3/24/iran-war-live-tehran-says-trumps-claims-of-peace-talks-fake",
-          "age": "3 phút trước",
+          "age": "42 phút trước",
           "title": "Iran war updates: Trump claims talks ongoing, Iran hits central Israel | US-Israel war on Iran News | Al Jazeera"
         }
       ],
@@ -79,44 +98,6 @@
       "trend_label": "⚪ Trung lập",
       "title_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok",
       "summary_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok"
-    },
-    {
-      "title": "Iran War Live Updates: U.S. Is Said to Have Sent Iran a Peace Plan - The New York Times",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil",
-          "age": "1 giờ trước",
-          "title": "Iran War Live Updates: U.S. Is Said to Have Sent Iran a Peace Plan - The New York Times"
-        }
-      ],
-      "url": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil",
-      "trust_boost": 0,
-      "display_source": "nytimes.com",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Cập nhật trực tiếp về Chiến tranh Iran: Hoa Kỳ được cho là đã gửi cho Iran một kế hoạch hòa bình",
-      "summary_vi": "Cập nhật trực tiếp về Chiến tranh Iran: Hoa Kỳ được cho là đã gửi cho Iran một kế hoạch hòa bình"
-    },
-    {
-      "title": "TRT World - Israel orders bombing of bridges, demolition of homes in Lebanese frontline",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "trtworld.com",
-          "url": "https://www.trtworld.com/live/69a2a1d4e4ba8e89ecd092dc",
-          "age": "1 giờ trước",
-          "title": "TRT World - Israel orders bombing of bridges, demolition of homes in Lebanese frontline"
-        }
-      ],
-      "url": "https://www.trtworld.com/live/69a2a1d4e4ba8e89ecd092dc",
-      "trust_boost": 0,
-      "display_source": "trtworld.com",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "TRT World - Israel ra lệnh ném bom cầu, phá hủy nhà cửa ở tiền tuyến Lebanon",
-      "summary_vi": "TRT World - Israel ra lệnh ném bom cầu, phá hủy nhà cửa ở tiền tuyến Lebanon"
     },
     {
       "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor",
