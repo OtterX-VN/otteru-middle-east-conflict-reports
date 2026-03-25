@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-03-25 15:00",
+  "generated_at": "2026-03-25 19:00",
   "timezone": "UTC+7",
   "total_original": 3,
   "total_grouped": 3,
   "grouped_items": [
     {
-      "title": "Iran war latest: Iran's military mocks Trump - after president handed over 15-point peace plan | World News | Sky News",
+      "title": "Middle East crisis live: Iran’s military mocks Trump’s claims of ceasefire talks, strikes Gulf states overnight | US-Israel war on Iran | The Guardian",
       "snippet": "",
       "sources": [
         {
-          "name": "news.sky.com",
-          "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
-          "age": "1 giờ trước",
-          "title": "Iran war latest: Iran's military mocks Trump - after president handed over 15-point peace plan | World News | Sky News"
+          "name": "theguardian.com",
+          "url": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon",
+          "age": "30 phút trước",
+          "title": "Middle East crisis live: Iran’s military mocks Trump’s claims of ceasefire talks, strikes Gulf states overnight | US-Israel war on Iran | The Guardian"
         }
       ],
-      "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
-      "trust_boost": 0,
-      "display_source": "news.sky.com",
+      "url": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon",
+      "trust_boost": 2,
+      "display_source": "theguardian.com",
       "trend": "up",
       "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Iran mới nhất: Quân đội Iran chế nhạo Trump - sau khi tổng thống bàn giao kế hoạch hòa bình 15 điểm | Tin Thế Giới | Tin tức bầu trời",
-      "summary_vi": "Chiến tranh Iran mới nhất: Quân đội Iran chế nhạo Trump - sau khi tổng thống bàn giao kế hoạch hòa bình 15 điểm |..."
+      "title_vi": "Trực tiếp cuộc khủng hoảng Trung Đông: Quân đội Iran chế nhạo tuyên bố của Trump về đàm phán ngừng bắn, tấn công các nước vùng Vịnh chỉ sau một đêm | Chiến tranh Mỹ-Israel ở Iran | Người bảo vệ",
+      "summary_vi": "Trực tiếp cuộc khủng hoảng Trung Đông: Quân đội Iran chế nhạo tuyên bố của Trump về đàm phán ngừng bắn, tấn công các..."
     },
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
