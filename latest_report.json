@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-03-25 12:00",
+  "generated_at": "2026-03-25 13:00",
   "timezone": "UTC+7",
-  "total_original": 6,
-  "total_grouped": 6,
+  "total_original": 4,
+  "total_grouped": 4,
   "grouped_items": [
     {
-      "title": "Trump administration offers 15-point ceasefire plan to Iran | AP News",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "apnews.com",
-          "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-24-2026-8bb5e79a98ea72fccc5c50b4931ad778",
-          "age": "50 phút trước",
-          "title": "Trump administration offers 15-point ceasefire plan to Iran | AP News"
-        }
-      ],
-      "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-24-2026-8bb5e79a98ea72fccc5c50b4931ad778",
-      "trust_boost": 3,
-      "display_source": "apnews.com",
-      "trend": "down",
-      "trend_label": "🟢 Làm dịu",
-      "title_vi": "Chính quyền Trump đưa ra kế hoạch ngừng bắn 15 điểm cho Iran | Tin tức AP",
-      "summary_vi": "Chính quyền Trump đưa ra kế hoạch ngừng bắn 15 điểm cho Iran | Tin tức AP"
-    },
-    {
-      "title": "Small window is open for US-Iran talks, but swift end to war still unlikely",
+      "title": "US-Israel war with Iran | Latest News and Updates | BBC News",
       "snippet": "",
       "sources": [
         {
           "name": "bbc.com",
-          "url": "https://www.bbc.com/news/articles/c895xljyzewo",
-          "age": "11 giờ trước",
-          "title": "Small window is open for US-Iran talks, but swift end to war still unlikely"
+          "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
+          "age": "1 giờ trước",
+          "title": "US-Israel war with Iran | Latest News and Updates | BBC News"
         }
       ],
-      "url": "https://www.bbc.com/news/articles/c895xljyzewo",
+      "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
       "trust_boost": 2,
       "display_source": "bbc.com",
       "trend": "up",
       "trend_label": "🔴 Leo thang",
-      "title_vi": "Cửa sổ nhỏ mở ra cho các cuộc đàm phán Mỹ-Iran, nhưng chiến tranh vẫn khó có thể kết thúc nhanh chóng",
-      "summary_vi": "Cửa sổ nhỏ mở ra cho các cuộc đàm phán Mỹ-Iran, nhưng chiến tranh vẫn khó có thể kết thúc nhanh chóng"
+      "title_vi": "Chiến tranh Mỹ-Israel với Iran | Tin tức và cập nhật mới nhất | tin tức BBC",
+      "summary_vi": "Chiến tranh Mỹ-Israel với Iran | Tin tức và cập nhật mới nhất | tin tức BBC"
+    },
+    {
+      "title": "Iran war latest: You're negotiating with yourself, Tehran's military tells Trump | World News | Sky News",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "news.sky.com",
+          "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
+          "age": "38 phút trước",
+          "title": "Iran war latest: You're negotiating with yourself, Tehran's military tells Trump | World News | Sky News"
+        }
+      ],
+      "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
+      "trust_boost": 0,
+      "display_source": "news.sky.com",
+      "trend": "up",
+      "trend_label": "🔴 Leo thang",
+      "title_vi": "Chiến tranh Iran mới nhất: Bạn đang đàm phán với chính mình, quân đội Tehran nói với Trump | Tin Thế Giới | Tin tức bầu trời",
+      "summary_vi": "Chiến tranh Iran mới nhất: Bạn đang đàm phán với chính mình, quân đội Tehran nói với Trump | Tin Thế Giới | Tin tức..."
     },
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
@@ -79,44 +79,6 @@
       "trend_label": "⚪ Trung lập",
       "title_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực",
       "summary_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực"
-    },
-    {
-      "title": "What the closure of the Strait of Hormuz means for the global economy - Dallasfed.org",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "dallasfed.org",
-          "url": "https://www.dallasfed.org/research/economics/2026/0320",
-          "age": "",
-          "title": "What the closure of the Strait of Hormuz means for the global economy - Dallasfed.org"
-        }
-      ],
-      "url": "https://www.dallasfed.org/research/economics/2026/0320",
-      "trust_boost": 0,
-      "display_source": "dallasfed.org",
-      "trend": "neutral",
-      "trend_label": "⚪ Trung lập",
-      "title_vi": "Việc đóng cửa eo biển Hormuz có ý nghĩa gì đối với nền kinh tế toàn cầu - Dallasfed.org",
-      "summary_vi": "Việc đóng cửa eo biển Hormuz có ý nghĩa gì đối với nền kinh tế toàn cầu - Dallasfed.org"
-    },
-    {
-      "title": "Iran-US war latest: Trump reportedly offers Tehran 15-point ceasefire plan",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "independent.co.uk",
-          "url": "https://independent.co.uk/news/world/middle-east/iran-us-war-live-trump-deadline-oil-strait-of-hormuz-b2944254.html",
-          "age": "18 phút trước",
-          "title": "Iran-US war latest: Trump reportedly offers Tehran 15-point ceasefire plan"
-        }
-      ],
-      "url": "https://independent.co.uk/news/world/middle-east/iran-us-war-live-trump-deadline-oil-strait-of-hormuz-b2944254.html",
-      "trust_boost": 0,
-      "display_source": "independent.co.uk",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Iran-Mỹ mới nhất: Trump được cho là đưa ra kế hoạch ngừng bắn 15 điểm cho Tehran",
-      "summary_vi": "Chiến tranh Iran-Mỹ mới nhất: Trump được cho là đưa ra kế hoạch ngừng bắn 15 điểm cho Tehran"
     }
   ]
 }
