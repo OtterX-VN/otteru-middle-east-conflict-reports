@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-25 11:01",
+  "generated_at": "2026-03-25 11:07",
   "timezone": "UTC+7",
-  "total_original": 5,
-  "total_grouped": 5,
+  "total_original": 4,
+  "total_grouped": 4,
   "grouped_items": [
     {
       "title": "Trump administration offers 15-point ceasefire plan to Iran | AP News",
@@ -22,25 +22,6 @@
       "trend_label": "🟢 Làm dịu",
       "title_vi": "Chính quyền Trump đưa ra kế hoạch ngừng bắn 15 điểm cho Iran | Tin tức AP",
       "summary_vi": "Chính quyền Trump đưa ra kế hoạch ngừng bắn 15 điểm cho Iran | Tin tức AP"
-    },
-    {
-      "title": "Live updates: Trump says Vance and Rubio participating in talks with Iran to end war | CNN",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "cnn.com",
-          "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26",
-          "age": "1 giờ trước",
-          "title": "Live updates: Trump says Vance and Rubio participating in talks with Iran to end war | CNN"
-        }
-      ],
-      "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26",
-      "trust_boost": 1,
-      "display_source": "cnn.com",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Cập nhật trực tiếp: Trump nói Vance và Rubio tham gia đàm phán với Iran để chấm dứt chiến tranh | CNN",
-      "summary_vi": "Cập nhật trực tiếp: Trump nói Vance và Rubio tham gia đàm phán với Iran để chấm dứt chiến tranh | CNN"
     },
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
