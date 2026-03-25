@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-03-25 09:13",
+  "generated_at": "2026-03-25 10:00",
   "timezone": "UTC+7",
-  "total_original": 5,
-  "total_grouped": 5,
+  "total_original": 6,
+  "total_grouped": 6,
   "grouped_items": [
     {
-      "title": "Iran war updates: Trump claims talks ongoing, Iran hits central Israel | US-Israel war on Iran News | Al Jazeera",
+      "title": "Trump administration offers 15-point ceasefire plan to Iran | AP News",
       "snippet": "",
       "sources": [
         {
-          "name": "aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/3/24/iran-war-live-tehran-says-trumps-claims-of-peace-talks-fake",
-          "age": "1 giờ trước",
-          "title": "Iran war updates: Trump claims talks ongoing, Iran hits central Israel | US-Israel war on Iran News | Al Jazeera"
+          "name": "apnews.com",
+          "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-24-2026-8bb5e79a98ea72fccc5c50b4931ad778",
+          "age": "44 phút trước",
+          "title": "Trump administration offers 15-point ceasefire plan to Iran | AP News"
         }
       ],
-      "url": "https://www.aljazeera.com/news/liveblog/2026/3/24/iran-war-live-tehran-says-trumps-claims-of-peace-talks-fake",
-      "trust_boost": 2,
-      "display_source": "aljazeera.com",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Cập nhật chiến tranh Iran: Trump tuyên bố đàm phán đang diễn ra, Iran tấn công miền trung Israel | Cuộc chiến Mỹ-Israel về Iran Tin tức | Al Jazeera",
-      "summary_vi": "Cập nhật chiến tranh Iran: Trump tuyên bố đàm phán đang diễn ra, Iran tấn công miền trung Israel | Cuộc chiến..."
+      "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-24-2026-8bb5e79a98ea72fccc5c50b4931ad778",
+      "trust_boost": 3,
+      "display_source": "apnews.com",
+      "trend": "down",
+      "trend_label": "🟢 Làm dịu",
+      "title_vi": "Chính quyền Trump đưa ra kế hoạch ngừng bắn 15 điểm cho Iran | Tin tức AP",
+      "summary_vi": "Chính quyền Trump đưa ra kế hoạch ngừng bắn 15 điểm cho Iran | Tin tức AP"
     },
     {
       "title": "Live updates: Trump says Vance and Rubio participating in talks with Iran to end war | CNN",
@@ -30,7 +30,7 @@
         {
           "name": "cnn.com",
           "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26",
-          "age": "19 phút trước",
+          "age": "28 phút trước",
           "title": "Live updates: Trump says Vance and Rubio participating in talks with Iran to end war | CNN"
         }
       ],
@@ -81,23 +81,42 @@
       "summary_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực"
     },
     {
-      "title": "Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz - The New York Times",
+      "title": "What the closure of the Strait of Hormuz means for the global economy - Dallasfed.org",
       "snippet": "",
       "sources": [
         {
-          "name": "nytimes.com",
-          "url": "https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html",
-          "age": "1 giờ trước",
-          "title": "Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz - The New York Times"
+          "name": "dallasfed.org",
+          "url": "https://www.dallasfed.org/research/economics/2026/0320",
+          "age": "",
+          "title": "What the closure of the Strait of Hormuz means for the global economy - Dallasfed.org"
         }
       ],
-      "url": "https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html",
+      "url": "https://www.dallasfed.org/research/economics/2026/0320",
       "trust_boost": 0,
-      "display_source": "nytimes.com",
+      "display_source": "dallasfed.org",
       "trend": "neutral",
       "trend_label": "⚪ Trung lập",
-      "title_vi": "Iran cho biết các tàu 'không thù địch' có thể đi qua eo biển Hormuz",
-      "summary_vi": "Iran cho biết các tàu 'không thù địch' có thể đi qua eo biển Hormuz"
+      "title_vi": "Việc đóng cửa eo biển Hormuz có ý nghĩa gì đối với nền kinh tế toàn cầu - Dallasfed.org",
+      "summary_vi": "Việc đóng cửa eo biển Hormuz có ý nghĩa gì đối với nền kinh tế toàn cầu - Dallasfed.org"
+    },
+    {
+      "title": "Iran-US war latest: Trump administration reportedly offers Tehran 15-point ceasefire plan as US moves more troops to region | The Independent",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "independent.co.uk",
+          "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-deadline-oil-strait-of-hormuz-b2944254.html",
+          "age": "21 phút trước",
+          "title": "Iran-US war latest: Trump administration reportedly offers Tehran 15-point ceasefire plan as US moves more troops to region | The Independent"
+        }
+      ],
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-deadline-oil-strait-of-hormuz-b2944254.html",
+      "trust_boost": 0,
+      "display_source": "independent.co.uk",
+      "trend": "up",
+      "trend_label": "🔴 Leo thang",
+      "title_vi": "Chiến tranh Iran-Mỹ mới nhất: Chính quyền Trump được cho là đưa ra kế hoạch ngừng bắn 15 điểm cho Tehran khi Mỹ chuyển thêm quân tới khu vực | Độc lập",
+      "summary_vi": "Chiến tranh Iran-Mỹ mới nhất: Chính quyền Trump được cho là đưa ra kế hoạch ngừng bắn 15 điểm cho Tehran khi Mỹ..."
     }
   ]
 }
