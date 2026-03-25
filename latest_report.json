@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-25 10:24",
+  "generated_at": "2026-03-25 11:00",
   "timezone": "UTC+7",
-  "total_original": 4,
-  "total_grouped": 4,
+  "total_original": 5,
+  "total_grouped": 5,
   "grouped_items": [
     {
       "title": "Trump administration offers 15-point ceasefire plan to Iran | AP News",
@@ -11,7 +11,7 @@
         {
           "name": "apnews.com",
           "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-24-2026-8bb5e79a98ea72fccc5c50b4931ad778",
-          "age": "21 phút trước",
+          "age": "1 giờ trước",
           "title": "Trump administration offers 15-point ceasefire plan to Iran | AP News"
         }
       ],
@@ -79,6 +79,25 @@
       "trend_label": "⚪ Trung lập",
       "title_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực",
       "summary_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực"
+    },
+    {
+      "title": "What the closure of the Strait of Hormuz means for the global economy - Dallasfed.org",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "dallasfed.org",
+          "url": "https://www.dallasfed.org/research/economics/2026/0320",
+          "age": "",
+          "title": "What the closure of the Strait of Hormuz means for the global economy - Dallasfed.org"
+        }
+      ],
+      "url": "https://www.dallasfed.org/research/economics/2026/0320",
+      "trust_boost": 0,
+      "display_source": "dallasfed.org",
+      "trend": "neutral",
+      "trend_label": "⚪ Trung lập",
+      "title_vi": "Việc đóng cửa eo biển Hormuz có ý nghĩa gì đối với nền kinh tế toàn cầu - Dallasfed.org",
+      "summary_vi": "Việc đóng cửa eo biển Hormuz có ý nghĩa gì đối với nền kinh tế toàn cầu - Dallasfed.org"
     }
   ]
 }
