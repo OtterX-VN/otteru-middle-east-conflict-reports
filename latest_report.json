@@ -1,9 +1,43 @@
 {
-  "generated_at": "2026-03-26 03:00",
+  "generated_at": "2026-03-26 04:03",
   "timezone": "UTC+7",
-  "total_original": 5,
-  "total_grouped": 5,
+  "total_original": 10,
+  "total_grouped": 10,
   "grouped_items": [
+    {
+      "title": "Iran rejects US ceasefire plan, issues its own demands as strikes land across the Mideast",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "apnews.com",
+          "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-25-2026-be07c54139bcc70672bb33f0773ede6a",
+          "age": "1 giờ trước",
+          "title": "Iran rejects US ceasefire plan, issues its own demands as strikes land across the Mideast"
+        }
+      ],
+      "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-25-2026-be07c54139bcc70672bb33f0773ede6a",
+      "trust_boost": 3,
+      "display_source": "apnews.com",
+      "title_vi": "Iran bác bỏ kế hoạch ngừng bắn của Mỹ, đưa ra yêu cầu riêng khi tấn công khắp Trung Đông",
+      "snippet_vi": ""
+    },
+    {
+      "title": "Iranian foreign minister claims Israeli strikes on fuel depots are ‘ecocide’ – as it happened | US-Israel war on Iran | The Guardian",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "theguardian.com",
+          "url": "https://www.theguardian.com/world/live/2026/mar/15/iran-war-news-live-updates-us-israel-middle-east-crisis-latest-kharg-island",
+          "age": "1 giờ trước",
+          "title": "Iranian foreign minister claims Israeli strikes on fuel depots are ‘ecocide’ – as it happened | US-Israel war on Iran | The Guardian"
+        }
+      ],
+      "url": "https://www.theguardian.com/world/live/2026/mar/15/iran-war-news-live-updates-us-israel-middle-east-crisis-latest-kharg-island",
+      "trust_boost": 2,
+      "display_source": "theguardian.com",
+      "title_vi": "Ngoại trưởng Iran tuyên bố các cuộc tấn công của Israel vào các kho nhiên liệu là 'sự diệt chủng sinh thái' - như đã xảy ra | Chiến tranh Mỹ-Israel ở Iran | Người bảo vệ",
+      "snippet_vi": ""
+    },
     {
       "title": "Middle East | Latest News & Updates | BBC News",
       "snippet": "",
@@ -11,36 +45,83 @@
         {
           "name": "bbc.com",
           "url": "https://www.bbc.com/news/world/middle_east",
-          "age": "48 phút trước",
+          "age": "2 giờ trước",
           "title": "Middle East | Latest News & Updates | BBC News"
         }
       ],
       "url": "https://www.bbc.com/news/world/middle_east",
       "trust_boost": 2,
       "display_source": "bbc.com",
-      "trend": "neutral",
-      "trend_label": "⚪ Trung lập",
       "title_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC",
-      "summary_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC"
+      "snippet_vi": ""
     },
     {
-      "title": "Middle East crisis live: confusion mounts as US and Iran issue latest contradictory statements on talks to end war | US-Israel war on Iran | The Guardian",
+      "title": "Middle East crisis live: Iran says Lebanon must be part of any ceasefire as Israel says it is expanding occupation of southern areas | US-Israel war on Iran | The Guardian",
       "snippet": "",
       "sources": [
         {
           "name": "theguardian.com",
           "url": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon",
-          "age": "7 phút trước",
-          "title": "Middle East crisis live: confusion mounts as US and Iran issue latest contradictory statements on talks to end war | US-Israel war on Iran | The Guardian"
+          "age": "2 phút trước",
+          "title": "Middle East crisis live: Iran says Lebanon must be part of any ceasefire as Israel says it is expanding occupation of southern areas | US-Israel war on Iran | The Guardian"
         }
       ],
       "url": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon",
       "trust_boost": 2,
       "display_source": "theguardian.com",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Khủng hoảng Trung Đông trực tiếp: Sự nhầm lẫn gia tăng khi Mỹ và Iran đưa ra những tuyên bố trái ngược nhau mới nhất về các cuộc đàm phán nhằm chấm dứt chiến tranh | Chiến tranh Mỹ-Israel ở Iran | Người bảo vệ",
-      "summary_vi": "Khủng hoảng Trung Đông trực tiếp: Sự nhầm lẫn gia tăng khi Mỹ và Iran đưa ra những tuyên bố trái ngược nhau mới nhất..."
+      "title_vi": "Trực tiếp khủng hoảng Trung Đông: Iran nói Lebanon phải tham gia bất kỳ lệnh ngừng bắn nào vì Israel cho biết họ đang mở rộng chiếm đóng các khu vực phía nam | Chiến tranh Mỹ-Israel ở Iran | Người bảo vệ",
+      "snippet_vi": ""
+    },
+    {
+      "title": "Iran rejects US ceasefire plan and submits its own amid push for talks | US-Israel war on Iran | The Guardian",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/mar/25/iran-gives-negative-response-to-us-ceasefire-plan-amid-push-for-talks",
+          "age": "39 phút trước",
+          "title": "Iran rejects US ceasefire plan and submits its own amid push for talks | US-Israel war on Iran | The Guardian"
+        }
+      ],
+      "url": "https://www.theguardian.com/world/2026/mar/25/iran-gives-negative-response-to-us-ceasefire-plan-amid-push-for-talks",
+      "trust_boost": 2,
+      "display_source": "theguardian.com",
+      "title_vi": "Iran bác bỏ kế hoạch ngừng bắn của Mỹ và đệ trình chính sách của mình trong bối cảnh thúc đẩy đàm phán | Chiến tranh Mỹ-Israel ở Iran | Người bảo vệ",
+      "snippet_vi": ""
+    },
+    {
+      "title": "Iran rejects US 15-point peace plan, state media report",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "bbc.com",
+          "url": "https://www.bbc.com/news/articles/cly9nz5vyz4o",
+          "age": "1 giờ trước",
+          "title": "Iran rejects US 15-point peace plan, state media report"
+        }
+      ],
+      "url": "https://www.bbc.com/news/articles/cly9nz5vyz4o",
+      "trust_boost": 2,
+      "display_source": "bbc.com",
+      "title_vi": "Iran bác bỏ kế hoạch hòa bình 15 điểm của Mỹ, truyền thông nhà nước đưa tin",
+      "snippet_vi": ""
+    },
+    {
+      "title": "Live updates: White House says Iran talks proceeding as foreign minister denies negotiations | CNN",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "cnn.com",
+          "url": "https://www.cnn.com/2026/03/25/world/live-news/iran-war-us-israel-trump-03-25-26",
+          "age": "11 phút trước",
+          "title": "Live updates: White House says Iran talks proceeding as foreign minister denies negotiations | CNN"
+        }
+      ],
+      "url": "https://www.cnn.com/2026/03/25/world/live-news/iran-war-us-israel-trump-03-25-26",
+      "trust_boost": 1,
+      "display_source": "cnn.com",
+      "title_vi": "Cập nhật trực tiếp: Nhà Trắng cho biết các cuộc đàm phán về Iran đang diễn ra khi Ngoại trưởng phủ nhận đàm phán | CNN",
+      "snippet_vi": ""
     },
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
@@ -56,48 +137,42 @@
       "url": "https://www.tiktok.com/@prestonstew/video/7618376431936097566",
       "trust_boost": 0,
       "display_source": "tiktok.com",
-      "trend": "neutral",
-      "trend_label": "⚪ Trung lập",
       "title_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok",
-      "summary_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok"
+      "snippet_vi": ""
     },
     {
-      "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor",
+      "title": "Iran war latest: Trump ready to 'unleash hell' if Tehran does not accept defeat | World News | Sky News",
       "snippet": "",
       "sources": [
         {
-          "name": "hormuzstraitmonitor.com",
-          "url": "https://hormuzstraitmonitor.com/",
-          "age": "",
-          "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor"
+          "name": "news.sky.com",
+          "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
+          "age": "2 giờ trước",
+          "title": "Iran war latest: Trump ready to 'unleash hell' if Tehran does not accept defeat | World News | Sky News"
         }
       ],
-      "url": "https://hormuzstraitmonitor.com/",
+      "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
       "trust_boost": 0,
-      "display_source": "hormuzstraitmonitor.com",
-      "trend": "neutral",
-      "trend_label": "⚪ Trung lập",
-      "title_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực",
-      "summary_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực"
+      "display_source": "news.sky.com",
+      "title_vi": "Chiến tranh Iran mới nhất: Trump sẵn sàng 'xả địa ngục' nếu Tehran không chấp nhận thất bại | Tin Thế Giới | Tin tức bầu trời",
+      "snippet_vi": ""
     },
     {
-      "title": "Iran raises stakes of possible ceasefire talks ahead of UN Security Council vote on Strait of Hormuz",
+      "title": "TRT World - Live blog - US-Israeli war on Iran (Feb 28, 2026)",
       "snippet": "",
       "sources": [
         {
-          "name": "foxnews.com",
-          "url": "https://www.foxnews.com/live-news/us-israel-iran-war-trump-peace-march-25",
-          "age": "13 phút trước",
-          "title": "Iran raises stakes of possible ceasefire talks ahead of UN Security Council vote on Strait of Hormuz"
+          "name": "trtworld.com",
+          "url": "https://www.trtworld.com/live/69a2a1d4e4ba8e89ecd092dc",
+          "age": "51 phút trước",
+          "title": "TRT World - Live blog - US-Israeli war on Iran (Feb 28, 2026)"
         }
       ],
-      "url": "https://www.foxnews.com/live-news/us-israel-iran-war-trump-peace-march-25",
+      "url": "https://www.trtworld.com/live/69a2a1d4e4ba8e89ecd092dc",
       "trust_boost": 0,
-      "display_source": "foxnews.com",
-      "trend": "down",
-      "trend_label": "🟢 Làm dịu",
-      "title_vi": "Iran đặt cược vào các cuộc đàm phán ngừng bắn có thể xảy ra trước cuộc bỏ phiếu của Hội đồng Bảo an Liên hợp quốc về eo biển Hormuz",
-      "summary_vi": "Iran đặt cược vào các cuộc đàm phán ngừng bắn có thể xảy ra trước cuộc bỏ phiếu của Hội đồng Bảo an Liên hợp quốc về..."
+      "display_source": "trtworld.com",
+      "title_vi": "TRT World - Blog trực tiếp - cuộc chiến Mỹ-Israel ở Iran (28/02/2026)",
+      "snippet_vi": ""
     }
   ]
 }
