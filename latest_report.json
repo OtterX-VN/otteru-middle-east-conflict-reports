@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-03-25 23:00",
+  "generated_at": "2026-03-26 03:00",
   "timezone": "UTC+7",
   "total_original": 5,
   "total_grouped": 5,
   "grouped_items": [
     {
-      "title": "US-Israel war with Iran | Latest News and Updates | BBC News",
+      "title": "Middle East | Latest News & Updates | BBC News",
       "snippet": "",
       "sources": [
         {
           "name": "bbc.com",
-          "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
-          "age": "1 giờ trước",
-          "title": "US-Israel war with Iran | Latest News and Updates | BBC News"
+          "url": "https://www.bbc.com/news/world/middle_east",
+          "age": "48 phút trước",
+          "title": "Middle East | Latest News & Updates | BBC News"
         }
       ],
-      "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
+      "url": "https://www.bbc.com/news/world/middle_east",
       "trust_boost": 2,
       "display_source": "bbc.com",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Mỹ-Israel với Iran | Tin tức và cập nhật mới nhất | tin tức BBC",
-      "summary_vi": "Chiến tranh Mỹ-Israel với Iran | Tin tức và cập nhật mới nhất | tin tức BBC"
+      "trend": "neutral",
+      "trend_label": "⚪ Trung lập",
+      "title_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC",
+      "summary_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC"
     },
     {
-      "title": "Middle East crisis live: confusion over Iran’s response to US proposal to end war | US-Israel war on Iran | The Guardian",
+      "title": "Middle East crisis live: confusion mounts as US and Iran issue latest contradictory statements on talks to end war | US-Israel war on Iran | The Guardian",
       "snippet": "",
       "sources": [
         {
           "name": "theguardian.com",
           "url": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon",
-          "age": "6 phút trước",
-          "title": "Middle East crisis live: confusion over Iran’s response to US proposal to end war | US-Israel war on Iran | The Guardian"
+          "age": "7 phút trước",
+          "title": "Middle East crisis live: confusion mounts as US and Iran issue latest contradictory statements on talks to end war | US-Israel war on Iran | The Guardian"
         }
       ],
       "url": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon",
@@ -39,8 +39,8 @@
       "display_source": "theguardian.com",
       "trend": "up",
       "trend_label": "🔴 Leo thang",
-      "title_vi": "Khủng hoảng Trung Đông trực tiếp: nhầm lẫn về phản ứng của Iran trước đề xuất chấm dứt chiến tranh của Mỹ | Chiến tranh Mỹ-Israel ở Iran | Người bảo vệ",
-      "summary_vi": "Khủng hoảng Trung Đông trực tiếp: nhầm lẫn về phản ứng của Iran trước đề xuất chấm dứt chiến tranh của Mỹ | Chiến..."
+      "title_vi": "Khủng hoảng Trung Đông trực tiếp: Sự nhầm lẫn gia tăng khi Mỹ và Iran đưa ra những tuyên bố trái ngược nhau mới nhất về các cuộc đàm phán nhằm chấm dứt chiến tranh | Chiến tranh Mỹ-Israel ở Iran | Người bảo vệ",
+      "summary_vi": "Khủng hoảng Trung Đông trực tiếp: Sự nhầm lẫn gia tăng khi Mỹ và Iran đưa ra những tuyên bố trái ngược nhau mới nhất..."
     },
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
@@ -87,7 +87,7 @@
         {
           "name": "foxnews.com",
           "url": "https://www.foxnews.com/live-news/us-israel-iran-war-trump-peace-march-25",
-          "age": "22 phút trước",
+          "age": "13 phút trước",
           "title": "Iran raises stakes of possible ceasefire talks ahead of UN Security Council vote on Strait of Hormuz"
         }
       ],
