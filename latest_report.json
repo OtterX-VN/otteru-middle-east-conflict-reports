@@ -1,18 +1,37 @@
 {
-  "generated_at": "2026-03-25 19:00",
+  "generated_at": "2026-03-25 23:00",
   "timezone": "UTC+7",
-  "total_original": 3,
-  "total_grouped": 3,
+  "total_original": 5,
+  "total_grouped": 5,
   "grouped_items": [
     {
-      "title": "Middle East crisis live: Iran’s military mocks Trump’s claims of ceasefire talks, strikes Gulf states overnight | US-Israel war on Iran | The Guardian",
+      "title": "US-Israel war with Iran | Latest News and Updates | BBC News",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "bbc.com",
+          "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
+          "age": "1 giờ trước",
+          "title": "US-Israel war with Iran | Latest News and Updates | BBC News"
+        }
+      ],
+      "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
+      "trust_boost": 2,
+      "display_source": "bbc.com",
+      "trend": "up",
+      "trend_label": "🔴 Leo thang",
+      "title_vi": "Chiến tranh Mỹ-Israel với Iran | Tin tức và cập nhật mới nhất | tin tức BBC",
+      "summary_vi": "Chiến tranh Mỹ-Israel với Iran | Tin tức và cập nhật mới nhất | tin tức BBC"
+    },
+    {
+      "title": "Middle East crisis live: confusion over Iran’s response to US proposal to end war | US-Israel war on Iran | The Guardian",
       "snippet": "",
       "sources": [
         {
           "name": "theguardian.com",
           "url": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon",
-          "age": "30 phút trước",
-          "title": "Middle East crisis live: Iran’s military mocks Trump’s claims of ceasefire talks, strikes Gulf states overnight | US-Israel war on Iran | The Guardian"
+          "age": "6 phút trước",
+          "title": "Middle East crisis live: confusion over Iran’s response to US proposal to end war | US-Israel war on Iran | The Guardian"
         }
       ],
       "url": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon",
@@ -20,8 +39,8 @@
       "display_source": "theguardian.com",
       "trend": "up",
       "trend_label": "🔴 Leo thang",
-      "title_vi": "Trực tiếp cuộc khủng hoảng Trung Đông: Quân đội Iran chế nhạo tuyên bố của Trump về đàm phán ngừng bắn, tấn công các nước vùng Vịnh chỉ sau một đêm | Chiến tranh Mỹ-Israel ở Iran | Người bảo vệ",
-      "summary_vi": "Trực tiếp cuộc khủng hoảng Trung Đông: Quân đội Iran chế nhạo tuyên bố của Trump về đàm phán ngừng bắn, tấn công các..."
+      "title_vi": "Khủng hoảng Trung Đông trực tiếp: nhầm lẫn về phản ứng của Iran trước đề xuất chấm dứt chiến tranh của Mỹ | Chiến tranh Mỹ-Israel ở Iran | Người bảo vệ",
+      "summary_vi": "Khủng hoảng Trung Đông trực tiếp: nhầm lẫn về phản ứng của Iran trước đề xuất chấm dứt chiến tranh của Mỹ | Chiến..."
     },
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
@@ -60,6 +79,25 @@
       "trend_label": "⚪ Trung lập",
       "title_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực",
       "summary_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực"
+    },
+    {
+      "title": "Iran raises stakes of possible ceasefire talks ahead of UN Security Council vote on Strait of Hormuz",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "foxnews.com",
+          "url": "https://www.foxnews.com/live-news/us-israel-iran-war-trump-peace-march-25",
+          "age": "22 phút trước",
+          "title": "Iran raises stakes of possible ceasefire talks ahead of UN Security Council vote on Strait of Hormuz"
+        }
+      ],
+      "url": "https://www.foxnews.com/live-news/us-israel-iran-war-trump-peace-march-25",
+      "trust_boost": 0,
+      "display_source": "foxnews.com",
+      "trend": "down",
+      "trend_label": "🟢 Làm dịu",
+      "title_vi": "Iran đặt cược vào các cuộc đàm phán ngừng bắn có thể xảy ra trước cuộc bỏ phiếu của Hội đồng Bảo an Liên hợp quốc về eo biển Hormuz",
+      "summary_vi": "Iran đặt cược vào các cuộc đàm phán ngừng bắn có thể xảy ra trước cuộc bỏ phiếu của Hội đồng Bảo an Liên hợp quốc về..."
     }
   ]
 }
