@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26 07:00",
+  "generated_at": "2026-03-26 11:00",
   "timezone": "UTC+7",
   "total_original": 5,
   "total_grouped": 5,
@@ -43,14 +43,14 @@
       "summary_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok"
     },
     {
-      "title": "Iran war latest: Trump ready to 'unleash hell' if Tehran does not accept defeat | World News | Sky News",
+      "title": "Iran war latest: Trump says US had no choice but to go to war | World News | Sky News",
       "snippet": "",
       "sources": [
         {
           "name": "news.sky.com",
           "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
-          "age": "8 phút trước",
-          "title": "Iran war latest: Trump ready to 'unleash hell' if Tehran does not accept defeat | World News | Sky News"
+          "age": "1 giờ trước",
+          "title": "Iran war latest: Trump says US had no choice but to go to war | World News | Sky News"
         }
       ],
       "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
@@ -58,8 +58,8 @@
       "display_source": "news.sky.com",
       "trend": "up",
       "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Iran mới nhất: Trump sẵn sàng 'xả địa ngục' nếu Tehran không chấp nhận thất bại | Tin Thế Giới | Tin tức bầu trời",
-      "summary_vi": "Chiến tranh Iran mới nhất: Trump sẵn sàng 'xả địa ngục' nếu Tehran không chấp nhận thất bại | Tin Thế Giới | Tin tức..."
+      "title_vi": "Chiến tranh Iran mới nhất: Trump nói Mỹ không còn lựa chọn nào khác ngoài tham chiến | Tin Thế Giới | Tin tức bầu trời",
+      "summary_vi": "Chiến tranh Iran mới nhất: Trump nói Mỹ không còn lựa chọn nào khác ngoài tham chiến | Tin Thế Giới | Tin tức bầu trời"
     },
     {
       "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor",
@@ -87,7 +87,7 @@
         {
           "name": "foxnews.com",
           "url": "https://www.foxnews.com/live-news/us-israel-iran-war-trump-peace-march-25",
-          "age": "29 phút trước",
+          "age": "13 phút trước",
           "title": "Iran raises stakes of possible ceasefire talks ahead of UN Security Council vote on Strait of Hormuz"
         }
       ],
