@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-03-26 11:00",
+  "generated_at": "2026-03-26 15:00",
   "timezone": "UTC+7",
-  "total_original": 5,
-  "total_grouped": 5,
+  "total_original": 4,
+  "total_grouped": 4,
   "grouped_items": [
     {
-      "title": "Iran rejects US ceasefire plan and submits its own amid push for talks | US-Israel war on Iran | The Guardian",
+      "title": "Middle East | Latest News & Updates | BBC News",
       "snippet": "",
       "sources": [
         {
-          "name": "theguardian.com",
-          "url": "https://www.theguardian.com/world/2026/mar/25/iran-gives-negative-response-to-us-ceasefire-plan-amid-push-for-talks",
+          "name": "bbc.com",
+          "url": "https://www.bbc.com/news/world/middle_east",
           "age": "1 giờ trước",
-          "title": "Iran rejects US ceasefire plan and submits its own amid push for talks | US-Israel war on Iran | The Guardian"
+          "title": "Middle East | Latest News & Updates | BBC News"
         }
       ],
-      "url": "https://www.theguardian.com/world/2026/mar/25/iran-gives-negative-response-to-us-ceasefire-plan-amid-push-for-talks",
+      "url": "https://www.bbc.com/news/world/middle_east",
       "trust_boost": 2,
-      "display_source": "theguardian.com",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Iran bác bỏ kế hoạch ngừng bắn của Mỹ và đệ trình chính sách của mình trong bối cảnh thúc đẩy đàm phán | Chiến tranh Mỹ-Israel ở Iran | Người bảo vệ",
-      "summary_vi": "Iran bác bỏ kế hoạch ngừng bắn của Mỹ và đệ trình chính sách của mình trong bối cảnh thúc đẩy đàm phán | Chiến tranh..."
+      "display_source": "bbc.com",
+      "trend": "neutral",
+      "trend_label": "⚪ Trung lập",
+      "title_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC",
+      "summary_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC"
     },
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
@@ -43,25 +43,6 @@
       "summary_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok"
     },
     {
-      "title": "Iran war latest: Trump says US had no choice but to go to war | World News | Sky News",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "news.sky.com",
-          "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
-          "age": "1 giờ trước",
-          "title": "Iran war latest: Trump says US had no choice but to go to war | World News | Sky News"
-        }
-      ],
-      "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
-      "trust_boost": 0,
-      "display_source": "news.sky.com",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Iran mới nhất: Trump nói Mỹ không còn lựa chọn nào khác ngoài tham chiến | Tin Thế Giới | Tin tức bầu trời",
-      "summary_vi": "Chiến tranh Iran mới nhất: Trump nói Mỹ không còn lựa chọn nào khác ngoài tham chiến | Tin Thế Giới | Tin tức bầu trời"
-    },
-    {
       "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor",
       "snippet": "",
       "sources": [
@@ -81,23 +62,23 @@
       "summary_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực"
     },
     {
-      "title": "Iran raises stakes of possible ceasefire talks ahead of UN Security Council vote on Strait of Hormuz",
+      "title": "Iran will allow ‘non-hostile vessels’ to pass through Strait of Hormuz",
       "snippet": "",
       "sources": [
         {
-          "name": "foxnews.com",
-          "url": "https://www.foxnews.com/live-news/us-israel-iran-war-trump-peace-march-25",
-          "age": "13 phút trước",
-          "title": "Iran raises stakes of possible ceasefire talks ahead of UN Security Council vote on Strait of Hormuz"
+          "name": "thehill.com",
+          "url": "https://thehill.com/policy/international/5799516-iran-strait-of-hormuz-ship-passage/",
+          "age": "11 giờ trước",
+          "title": "Iran will allow ‘non-hostile vessels’ to pass through Strait of Hormuz"
         }
       ],
-      "url": "https://www.foxnews.com/live-news/us-israel-iran-war-trump-peace-march-25",
+      "url": "https://thehill.com/policy/international/5799516-iran-strait-of-hormuz-ship-passage/",
       "trust_boost": 0,
-      "display_source": "foxnews.com",
-      "trend": "down",
-      "trend_label": "🟢 Làm dịu",
-      "title_vi": "Iran đặt cược vào các cuộc đàm phán ngừng bắn có thể xảy ra trước cuộc bỏ phiếu của Hội đồng Bảo an Liên hợp quốc về eo biển Hormuz",
-      "summary_vi": "Iran đặt cược vào các cuộc đàm phán ngừng bắn có thể xảy ra trước cuộc bỏ phiếu của Hội đồng Bảo an Liên hợp quốc về..."
+      "display_source": "thehill.com",
+      "trend": "neutral",
+      "trend_label": "⚪ Trung lập",
+      "title_vi": "Iran sẽ cho phép 'tàu phi thù địch' đi qua eo biển Hormuz",
+      "summary_vi": "Iran sẽ cho phép 'tàu phi thù địch' đi qua eo biển Hormuz"
     }
   ]
 }
