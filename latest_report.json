@@ -1,27 +1,65 @@
 {
-  "generated_at": "2026-03-27 00:04",
+  "generated_at": "2026-03-27 03:00",
   "timezone": "UTC+7",
-  "total_original": 3,
-  "total_grouped": 3,
+  "total_original": 6,
+  "total_grouped": 6,
   "grouped_items": [
     {
-      "title": "Iran sees US peace plan as 'one-sided' as Trump presses for deal | Reuters",
+      "title": "US-Israel war with Iran | Latest News and Updates | BBC News",
       "snippet": "",
       "sources": [
         {
-          "name": "reuters.com",
-          "url": "https://www.reuters.com/world/asia-pacific/iran-says-it-is-reviewing-us-ceasefire-plan-no-talks-trump-says-tehran-leaders-2026-03-26/",
+          "name": "bbc.com",
+          "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
           "age": "1 giờ trước",
-          "title": "Iran sees US peace plan as 'one-sided' as Trump presses for deal | Reuters"
+          "title": "US-Israel war with Iran | Latest News and Updates | BBC News"
         }
       ],
-      "url": "https://www.reuters.com/world/asia-pacific/iran-says-it-is-reviewing-us-ceasefire-plan-no-talks-trump-says-tehran-leaders-2026-03-26/",
+      "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
+      "trust_boost": 2,
+      "display_source": "bbc.com",
+      "trend": "up",
+      "trend_label": "🔴 Leo thang",
+      "title_vi": "Chiến tranh Mỹ-Israel với Iran | Tin tức và cập nhật mới nhất | tin tức BBC",
+      "summary_vi": "Chiến tranh Mỹ-Israel với Iran | Tin tức và cập nhật mới nhất | tin tức BBC"
+    },
+    {
+      "title": "‘Tehran’s tollbooth’: a visual guide to how a trickle of ships still passes through strait of Hormuz | Strait of Hormuz | The Guardian",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/mar/26/strait-of-hormuz-visual-guide-trickle-of-ships-iran",
+          "age": "1 giờ trước",
+          "title": "‘Tehran’s tollbooth’: a visual guide to how a trickle of ships still passes through strait of Hormuz | Strait of Hormuz | The Guardian"
+        }
+      ],
+      "url": "https://www.theguardian.com/world/2026/mar/26/strait-of-hormuz-visual-guide-trickle-of-ships-iran",
+      "trust_boost": 2,
+      "display_source": "theguardian.com",
+      "trend": "neutral",
+      "trend_label": "⚪ Trung lập",
+      "title_vi": "'Trạm thu phí của Tehran': hướng dẫn trực quan về cách một dòng tàu nhỏ vẫn đi qua eo biển Hormuz | Eo biển Hormuz | Người bảo vệ",
+      "summary_vi": "'Trạm thu phí của Tehran': hướng dẫn trực quan về cách một dòng tàu nhỏ vẫn đi qua eo biển Hormuz | Eo biển Hormuz |..."
+    },
+    {
+      "title": "Live updates: Iran dismisses US ceasefire plan and issues its own counterproposal",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "apnews.com",
+          "url": "https://apnews.com/live/iran-war-israel-trump-03-25-2026",
+          "age": "11 giờ trước",
+          "title": "Live updates: Iran dismisses US ceasefire plan and issues its own counterproposal"
+        }
+      ],
+      "url": "https://apnews.com/live/iran-war-israel-trump-03-25-2026",
       "trust_boost": 3,
-      "display_source": "reuters.com",
+      "display_source": "apnews.com",
       "trend": "down",
       "trend_label": "🟢 Làm dịu",
-      "title_vi": "Iran coi kế hoạch hòa bình của Mỹ là 'một chiều' khi Trump thúc ép thỏa thuận | Reuters",
-      "summary_vi": "Iran coi kế hoạch hòa bình của Mỹ là 'một chiều' khi Trump thúc ép thỏa thuận | Reuters"
+      "title_vi": "Cập nhật trực tiếp: Iran bác bỏ kế hoạch ngừng bắn của Mỹ và đưa ra đề xuất phản đối của riêng mình",
+      "summary_vi": "Cập nhật trực tiếp: Iran bác bỏ kế hoạch ngừng bắn của Mỹ và đưa ra đề xuất phản đối của riêng mình"
     },
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
@@ -43,23 +81,42 @@
       "summary_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok"
     },
     {
-      "title": "Iran-US war latest: Trump suggests taking control of Tehran’s oil as he calls Iranians ‘great negotiators’ | The Independent",
+      "title": "Iran war latest: Israel committing war crimes, Lebanon says - as Trump mocks UK ships | World News | Sky News",
       "snippet": "",
       "sources": [
         {
-          "name": "independent.co.uk",
-          "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-oil-trump-israel-strait-of-hormuz-peace-talks-b2945090.html",
-          "age": "4 phút trước",
-          "title": "Iran-US war latest: Trump suggests taking control of Tehran’s oil as he calls Iranians ‘great negotiators’ | The Independent"
+          "name": "news.sky.com",
+          "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
+          "age": "50 phút trước",
+          "title": "Iran war latest: Israel committing war crimes, Lebanon says - as Trump mocks UK ships | World News | Sky News"
         }
       ],
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-oil-trump-israel-strait-of-hormuz-peace-talks-b2945090.html",
+      "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
       "trust_boost": 0,
-      "display_source": "independent.co.uk",
+      "display_source": "news.sky.com",
       "trend": "up",
       "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Iran-Mỹ mới nhất: Trump đề nghị nắm quyền kiểm soát dầu của Tehran khi ông gọi người Iran là 'những nhà đàm phán vĩ đại' | Độc lập",
-      "summary_vi": "Chiến tranh Iran-Mỹ mới nhất: Trump đề nghị nắm quyền kiểm soát dầu của Tehran khi ông gọi người Iran là 'những nhà..."
+      "title_vi": "Chiến tranh Iran mới nhất: Israel phạm tội ác chiến tranh, Lebanon nói - khi Trump chế nhạo các tàu của Anh | Tin Thế Giới | Tin tức bầu trời",
+      "summary_vi": "Chiến tranh Iran mới nhất: Israel phạm tội ác chiến tranh, Lebanon nói - khi Trump chế nhạo các tàu của Anh | Tin..."
+    },
+    {
+      "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "hormuzstraitmonitor.com",
+          "url": "https://hormuzstraitmonitor.com/",
+          "age": "",
+          "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor"
+        }
+      ],
+      "url": "https://hormuzstraitmonitor.com/",
+      "trust_boost": 0,
+      "display_source": "hormuzstraitmonitor.com",
+      "trend": "neutral",
+      "trend_label": "⚪ Trung lập",
+      "title_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực",
+      "summary_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực"
     }
   ]
 }
