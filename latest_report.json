@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-03-26 19:00",
+  "generated_at": "2026-03-26 20:04",
   "timezone": "UTC+7",
-  "total_original": 5,
-  "total_grouped": 4,
+  "total_original": 10,
+  "total_grouped": 10,
   "grouped_items": [
+    {
+      "title": "Iran rejects US ceasefire plan, issues its own demands as strikes land across the Mideast",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "apnews.com",
+          "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-25-2026-be07c54139bcc70672bb33f0773ede6a",
+          "age": "11 giờ trước",
+          "title": "Iran rejects US ceasefire plan, issues its own demands as strikes land across the Mideast"
+        }
+      ],
+      "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-25-2026-be07c54139bcc70672bb33f0773ede6a",
+      "trust_boost": 3,
+      "display_source": "apnews.com",
+      "title_vi": "Iran bác bỏ kế hoạch ngừng bắn của Mỹ, đưa ra yêu cầu riêng khi tấn công khắp Trung Đông",
+      "snippet_vi": ""
+    },
     {
       "title": "Middle East | Latest News & Updates | BBC News",
       "snippet": "",
@@ -11,17 +28,49 @@
         {
           "name": "bbc.com",
           "url": "https://www.bbc.com/news/world/middle_east",
-          "age": "1 giờ trước",
+          "age": "2 giờ trước",
           "title": "Middle East | Latest News & Updates | BBC News"
         }
       ],
       "url": "https://www.bbc.com/news/world/middle_east",
       "trust_boost": 2,
       "display_source": "bbc.com",
-      "trend": "neutral",
-      "trend_label": "⚪ Trung lập",
       "title_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC",
-      "summary_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC"
+      "snippet_vi": ""
+    },
+    {
+      "title": "'No intention of negotiating for now,' says Iranian minister, as US insists war goals almost met - BBC News",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "bbc.com",
+          "url": "https://www.bbc.com/news/live/cn8dldl0jx9t",
+          "age": "12 giờ trước",
+          "title": "'No intention of negotiating for now,' says Iranian minister, as US insists war goals almost met - BBC News"
+        }
+      ],
+      "url": "https://www.bbc.com/news/live/cn8dldl0jx9t",
+      "trust_boost": 2,
+      "display_source": "bbc.com",
+      "title_vi": "Bộ trưởng Iran nói 'không có ý định đàm phán lúc này' khi Mỹ khẳng định các mục tiêu chiến tranh gần như đã đạt được - BBC News",
+      "snippet_vi": ""
+    },
+    {
+      "title": "US-Israel attacks on Iran: Death toll and injuries live tracker | Conflict News | Al Jazeera",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/3/1/us-israel-attacks-on-iran-death-toll-and-injuries-live-tracker",
+          "age": "28 phút trước",
+          "title": "US-Israel attacks on Iran: Death toll and injuries live tracker | Conflict News | Al Jazeera"
+        }
+      ],
+      "url": "https://www.aljazeera.com/news/2026/3/1/us-israel-attacks-on-iran-death-toll-and-injuries-live-tracker",
+      "trust_boost": 2,
+      "display_source": "aljazeera.com",
+      "title_vi": "Cuộc tấn công của Mỹ-Israel vào Iran: Theo dõi trực tiếp số người chết và bị thương | Tin xung đột | Al Jazeera",
+      "snippet_vi": ""
     },
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
@@ -37,54 +86,93 @@
       "url": "https://www.tiktok.com/@prestonstew/video/7618376431936097566",
       "trust_boost": 0,
       "display_source": "tiktok.com",
-      "trend": "neutral",
-      "trend_label": "⚪ Trung lập",
       "title_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok",
-      "summary_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok"
+      "snippet_vi": ""
     },
     {
-      "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor",
+      "title": "Iran war latest: Tehran should be 'begging' for deal, says Trump - as he again blames NATO | World News | Sky News",
       "snippet": "",
       "sources": [
         {
-          "name": "hormuzstraitmonitor.com",
-          "url": "https://hormuzstraitmonitor.com/",
-          "age": "",
-          "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor"
+          "name": "news.sky.com",
+          "url": "https://news.sky.com/story/iran-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
+          "age": "2 giờ trước",
+          "title": "Iran war latest: Tehran should be 'begging' for deal, says Trump - as he again blames NATO | World News | Sky News"
         }
       ],
-      "url": "https://hormuzstraitmonitor.com/",
+      "url": "https://news.sky.com/story/iran-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
       "trust_boost": 0,
-      "display_source": "hormuzstraitmonitor.com",
-      "trend": "neutral",
-      "trend_label": "⚪ Trung lập",
-      "title_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực",
-      "summary_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực"
+      "display_source": "news.sky.com",
+      "title_vi": "Chiến tranh Iran mới nhất: Tehran nên 'cầu xin' thỏa thuận, Trump nói - khi ông lại đổ lỗi cho NATO | Tin Thế Giới | Tin tức bầu trời",
+      "snippet_vi": ""
     },
     {
-      "title": "Iran-US war latest: Trump launches fresh attack on Nato after Tehran ...",
+      "title": "TRT World - Live blog - US-Israeli war on Iran (Feb 28, 2026)",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "trtworld.com",
+          "url": "https://www.trtworld.com/live/69a2a1d4e4ba8e89ecd092dc",
+          "age": "1 giờ trước",
+          "title": "TRT World - Live blog - US-Israeli war on Iran (Feb 28, 2026)"
+        }
+      ],
+      "url": "https://www.trtworld.com/live/69a2a1d4e4ba8e89ecd092dc",
+      "trust_boost": 0,
+      "display_source": "trtworld.com",
+      "title_vi": "TRT World - Blog trực tiếp - cuộc chiến Mỹ-Israel ở Iran (28/02/2026)",
+      "snippet_vi": ""
+    },
+    {
+      "title": "Iran War Live Updates: Israel Says It Killed Iranian Naval Commander - The New York Times",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "nytimes.com",
+          "url": "https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil",
+          "age": "7 phút trước",
+          "title": "Iran War Live Updates: Israel Says It Killed Iranian Naval Commander - The New York Times"
+        }
+      ],
+      "url": "https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil",
+      "trust_boost": 0,
+      "display_source": "nytimes.com",
+      "title_vi": "Cập nhật trực tiếp về Chiến tranh Iran: Israel cho biết họ đã giết chết Tư lệnh Hải quân Iran",
+      "snippet_vi": ""
+    },
+    {
+      "title": "Strait of Hormuz - Wikipedia",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "en.wikipedia.org",
+          "url": "https://en.wikipedia.org/wiki/Strait_of_Hormuz",
+          "age": "1 giờ trước",
+          "title": "Strait of Hormuz - Wikipedia"
+        }
+      ],
+      "url": "https://en.wikipedia.org/wiki/Strait_of_Hormuz",
+      "trust_boost": 0,
+      "display_source": "en.wikipedia.org",
+      "title_vi": "Eo biển Hormuz - Wikipedia",
+      "snippet_vi": ""
+    },
+    {
+      "title": "Iran-US war latest: Trump launches fresh attack on Nato after Tehran mocks peace talks claims | The Independent",
       "snippet": "",
       "sources": [
         {
           "name": "independent.co.uk",
           "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-oil-trump-israel-strait-of-hormuz-peace-talks-b2945090.html",
-          "age": "30 phút trước",
-          "title": "Iran-US war latest: Trump launches fresh attack on Nato after Tehran ..."
-        },
-        {
-          "name": "independent.co.uk",
-          "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-talks-israel-oil-strait-of-hormuz-b2945904.html",
-          "age": "30 phút trước",
+          "age": "11 phút trước",
           "title": "Iran-US war latest: Trump launches fresh attack on Nato after Tehran mocks peace talks claims | The Independent"
         }
       ],
       "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-oil-trump-israel-strait-of-hormuz-peace-talks-b2945090.html",
       "trust_boost": 0,
       "display_source": "independent.co.uk",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Iran-Mỹ mới nhất: Trump phát động cuộc tấn công mới vào NATO sau khi Tehran ...",
-      "summary_vi": "Chiến tranh Iran-Mỹ mới nhất: Trump phát động cuộc tấn công mới vào NATO sau khi Tehran ..."
+      "title_vi": "Chiến tranh Iran-Mỹ mới nhất: Trump phát động cuộc tấn công mới vào NATO sau khi Tehran chế nhạo các tuyên bố đàm phán hòa bình | Độc lập",
+      "snippet_vi": ""
     }
   ]
 }
