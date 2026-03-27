@@ -1,46 +1,27 @@
 {
-  "generated_at": "2026-03-27 20:08",
+  "generated_at": "2026-03-27 23:00",
   "timezone": "UTC+7",
   "total_original": 4,
   "total_grouped": 4,
   "grouped_items": [
     {
-      "title": "Middle East | Latest News & Updates | BBC News",
+      "title": "US-Israel war with Iran | Latest News and Updates | BBC News",
       "snippet": "",
       "sources": [
         {
           "name": "bbc.com",
-          "url": "https://www.bbc.com/news/world/middle_east",
-          "age": "1 giờ trước",
-          "title": "Middle East | Latest News & Updates | BBC News"
+          "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
+          "age": "48 phút trước",
+          "title": "US-Israel war with Iran | Latest News and Updates | BBC News"
         }
       ],
-      "url": "https://www.bbc.com/news/world/middle_east",
+      "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
       "trust_boost": 2,
       "display_source": "bbc.com",
-      "trend": "neutral",
-      "trend_label": "⚪ Trung lập",
-      "title_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC",
-      "summary_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC"
-    },
-    {
-      "title": "‘Tehran’s tollbooth’: a visual guide to how a trickle of ships still passes through strait of Hormuz | Strait of Hormuz | The Guardian",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "theguardian.com",
-          "url": "https://www.theguardian.com/world/2026/mar/26/strait-of-hormuz-visual-guide-trickle-of-ships-iran",
-          "age": "11 giờ trước",
-          "title": "‘Tehran’s tollbooth’: a visual guide to how a trickle of ships still passes through strait of Hormuz | Strait of Hormuz | The Guardian"
-        }
-      ],
-      "url": "https://www.theguardian.com/world/2026/mar/26/strait-of-hormuz-visual-guide-trickle-of-ships-iran",
-      "trust_boost": 2,
-      "display_source": "theguardian.com",
-      "trend": "neutral",
-      "trend_label": "⚪ Trung lập",
-      "title_vi": "'Trạm thu phí của Tehran': hướng dẫn trực quan về cách một dòng tàu nhỏ vẫn đi qua eo biển Hormuz | Eo biển Hormuz | Người bảo vệ",
-      "summary_vi": "'Trạm thu phí của Tehran': hướng dẫn trực quan về cách một dòng tàu nhỏ vẫn đi qua eo biển Hormuz | Eo biển Hormuz |..."
+      "trend": "up",
+      "trend_label": "🔴 Leo thang",
+      "title_vi": "Chiến tranh Mỹ-Israel với Iran | Tin tức và cập nhật mới nhất | tin tức BBC",
+      "summary_vi": "Chiến tranh Mỹ-Israel với Iran | Tin tức và cập nhật mới nhất | tin tức BBC"
     },
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
@@ -60,6 +41,25 @@
       "trend_label": "⚪ Trung lập",
       "title_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok",
       "summary_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok"
+    },
+    {
+      "title": "Iran-US war latest: Iran declares Strait of Hormuz closed and warns ships will face ‘harsh measures’ | The Independent",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "independent.co.uk",
+          "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-oil-strait-of-hormuz-b2946724.html",
+          "age": "4 phút trước",
+          "title": "Iran-US war latest: Iran declares Strait of Hormuz closed and warns ships will face ‘harsh measures’ | The Independent"
+        }
+      ],
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-oil-strait-of-hormuz-b2946724.html",
+      "trust_boost": 0,
+      "display_source": "independent.co.uk",
+      "trend": "up",
+      "trend_label": "🔴 Leo thang",
+      "title_vi": "Chiến tranh Iran-Mỹ mới nhất: Iran tuyên bố đóng cửa eo biển Hormuz và cảnh báo tàu bè sẽ phải đối mặt với 'các biện pháp khắc nghiệt' | Độc lập",
+      "summary_vi": "Chiến tranh Iran-Mỹ mới nhất: Iran tuyên bố đóng cửa eo biển Hormuz và cảnh báo tàu bè sẽ phải đối mặt với 'các biện..."
     },
     {
       "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor",
