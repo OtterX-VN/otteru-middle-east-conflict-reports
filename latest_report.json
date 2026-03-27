@@ -1,65 +1,27 @@
 {
-  "generated_at": "2026-03-27 03:00",
+  "generated_at": "2026-03-27 07:00",
   "timezone": "UTC+7",
-  "total_original": 6,
-  "total_grouped": 6,
+  "total_original": 4,
+  "total_grouped": 4,
   "grouped_items": [
     {
-      "title": "US-Israel war with Iran | Latest News and Updates | BBC News",
+      "title": "Middle East | Latest News & Updates | BBC News",
       "snippet": "",
       "sources": [
         {
           "name": "bbc.com",
-          "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
-          "age": "1 giờ trước",
-          "title": "US-Israel war with Iran | Latest News and Updates | BBC News"
+          "url": "https://www.bbc.com/news/world/middle_east",
+          "age": "39 phút trước",
+          "title": "Middle East | Latest News & Updates | BBC News"
         }
       ],
-      "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
+      "url": "https://www.bbc.com/news/world/middle_east",
       "trust_boost": 2,
       "display_source": "bbc.com",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Mỹ-Israel với Iran | Tin tức và cập nhật mới nhất | tin tức BBC",
-      "summary_vi": "Chiến tranh Mỹ-Israel với Iran | Tin tức và cập nhật mới nhất | tin tức BBC"
-    },
-    {
-      "title": "‘Tehran’s tollbooth’: a visual guide to how a trickle of ships still passes through strait of Hormuz | Strait of Hormuz | The Guardian",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "theguardian.com",
-          "url": "https://www.theguardian.com/world/2026/mar/26/strait-of-hormuz-visual-guide-trickle-of-ships-iran",
-          "age": "1 giờ trước",
-          "title": "‘Tehran’s tollbooth’: a visual guide to how a trickle of ships still passes through strait of Hormuz | Strait of Hormuz | The Guardian"
-        }
-      ],
-      "url": "https://www.theguardian.com/world/2026/mar/26/strait-of-hormuz-visual-guide-trickle-of-ships-iran",
-      "trust_boost": 2,
-      "display_source": "theguardian.com",
       "trend": "neutral",
       "trend_label": "⚪ Trung lập",
-      "title_vi": "'Trạm thu phí của Tehran': hướng dẫn trực quan về cách một dòng tàu nhỏ vẫn đi qua eo biển Hormuz | Eo biển Hormuz | Người bảo vệ",
-      "summary_vi": "'Trạm thu phí của Tehran': hướng dẫn trực quan về cách một dòng tàu nhỏ vẫn đi qua eo biển Hormuz | Eo biển Hormuz |..."
-    },
-    {
-      "title": "Live updates: Iran dismisses US ceasefire plan and issues its own counterproposal",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "apnews.com",
-          "url": "https://apnews.com/live/iran-war-israel-trump-03-25-2026",
-          "age": "11 giờ trước",
-          "title": "Live updates: Iran dismisses US ceasefire plan and issues its own counterproposal"
-        }
-      ],
-      "url": "https://apnews.com/live/iran-war-israel-trump-03-25-2026",
-      "trust_boost": 3,
-      "display_source": "apnews.com",
-      "trend": "down",
-      "trend_label": "🟢 Làm dịu",
-      "title_vi": "Cập nhật trực tiếp: Iran bác bỏ kế hoạch ngừng bắn của Mỹ và đưa ra đề xuất phản đối của riêng mình",
-      "summary_vi": "Cập nhật trực tiếp: Iran bác bỏ kế hoạch ngừng bắn của Mỹ và đưa ra đề xuất phản đối của riêng mình"
+      "title_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC",
+      "summary_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC"
     },
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
@@ -81,14 +43,14 @@
       "summary_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok"
     },
     {
-      "title": "Iran war latest: Israel committing war crimes, Lebanon says - as Trump mocks UK ships | World News | Sky News",
+      "title": "Iran war latest: Trump 'pauses' threat to bomb Iran's energy facilities for 10 days - and says talks 'going very well' | World News | Sky News",
       "snippet": "",
       "sources": [
         {
           "name": "news.sky.com",
           "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
-          "age": "50 phút trước",
-          "title": "Iran war latest: Israel committing war crimes, Lebanon says - as Trump mocks UK ships | World News | Sky News"
+          "age": "1 giờ trước",
+          "title": "Iran war latest: Trump 'pauses' threat to bomb Iran's energy facilities for 10 days - and says talks 'going very well' | World News | Sky News"
         }
       ],
       "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
@@ -96,8 +58,8 @@
       "display_source": "news.sky.com",
       "trend": "up",
       "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Iran mới nhất: Israel phạm tội ác chiến tranh, Lebanon nói - khi Trump chế nhạo các tàu của Anh | Tin Thế Giới | Tin tức bầu trời",
-      "summary_vi": "Chiến tranh Iran mới nhất: Israel phạm tội ác chiến tranh, Lebanon nói - khi Trump chế nhạo các tàu của Anh | Tin..."
+      "title_vi": "Chiến tranh Iran mới nhất: Trump 'tạm dừng' đe dọa ném bom các cơ sở năng lượng của Iran trong 10 ngày - và nói rằng các cuộc đàm phán 'diễn ra rất tốt' | Tin Thế Giới | Tin tức bầu trời",
+      "summary_vi": "Chiến tranh Iran mới nhất: Trump 'tạm dừng' đe dọa ném bom các cơ sở năng lượng của Iran trong 10 ngày - và nói rằng..."
     },
     {
       "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor",
