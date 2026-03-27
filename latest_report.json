@@ -1,9 +1,47 @@
 {
-  "generated_at": "2026-03-27 19:00",
+  "generated_at": "2026-03-27 20:08",
   "timezone": "UTC+7",
   "total_original": 4,
   "total_grouped": 4,
   "grouped_items": [
+    {
+      "title": "Middle East | Latest News & Updates | BBC News",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "bbc.com",
+          "url": "https://www.bbc.com/news/world/middle_east",
+          "age": "1 giờ trước",
+          "title": "Middle East | Latest News & Updates | BBC News"
+        }
+      ],
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "trust_boost": 2,
+      "display_source": "bbc.com",
+      "trend": "neutral",
+      "trend_label": "⚪ Trung lập",
+      "title_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC",
+      "summary_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC"
+    },
+    {
+      "title": "‘Tehran’s tollbooth’: a visual guide to how a trickle of ships still passes through strait of Hormuz | Strait of Hormuz | The Guardian",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/mar/26/strait-of-hormuz-visual-guide-trickle-of-ships-iran",
+          "age": "11 giờ trước",
+          "title": "‘Tehran’s tollbooth’: a visual guide to how a trickle of ships still passes through strait of Hormuz | Strait of Hormuz | The Guardian"
+        }
+      ],
+      "url": "https://www.theguardian.com/world/2026/mar/26/strait-of-hormuz-visual-guide-trickle-of-ships-iran",
+      "trust_boost": 2,
+      "display_source": "theguardian.com",
+      "trend": "neutral",
+      "trend_label": "⚪ Trung lập",
+      "title_vi": "'Trạm thu phí của Tehran': hướng dẫn trực quan về cách một dòng tàu nhỏ vẫn đi qua eo biển Hormuz | Eo biển Hormuz | Người bảo vệ",
+      "summary_vi": "'Trạm thu phí của Tehran': hướng dẫn trực quan về cách một dòng tàu nhỏ vẫn đi qua eo biển Hormuz | Eo biển Hormuz |..."
+    },
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
       "snippet": "",
@@ -22,44 +60,6 @@
       "trend_label": "⚪ Trung lập",
       "title_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok",
       "summary_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok"
-    },
-    {
-      "title": "Iran war latest: 'Reckless' strikes on Iran condemned at UN as ships 'turned away from Strait of Hormuz' | World News | Sky News",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "news.sky.com",
-          "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
-          "age": "1 giờ trước",
-          "title": "Iran war latest: 'Reckless' strikes on Iran condemned at UN as ships 'turned away from Strait of Hormuz' | World News | Sky News"
-        }
-      ],
-      "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
-      "trust_boost": 0,
-      "display_source": "news.sky.com",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Iran mới nhất: Các cuộc tấn công 'liều lĩnh' nhằm vào Iran bị lên án tại Liên Hợp Quốc khi các tàu 'quay lưng khỏi eo biển Hormuz' | Tin Thế Giới | Tin tức bầu trời",
-      "summary_vi": "Chiến tranh Iran mới nhất: Các cuộc tấn công 'liều lĩnh' nhằm vào Iran bị lên án tại Liên Hợp Quốc khi các tàu 'quay..."
-    },
-    {
-      "title": "Iranian 'present' was oil tanks passing through Strait of Hormuz, Trump reveals, as Israel kills navy commander | Live Updates from Fox News Digital",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "foxnews.com",
-          "url": "https://www.foxnews.com/live-news/us-israel-iran-war-strait-hormuz-updates-march-26",
-          "age": "36 phút trước",
-          "title": "Iranian 'present' was oil tanks passing through Strait of Hormuz, Trump reveals, as Israel kills navy commander | Live Updates from Fox News Digital"
-        }
-      ],
-      "url": "https://www.foxnews.com/live-news/us-israel-iran-war-strait-hormuz-updates-march-26",
-      "trust_boost": 0,
-      "display_source": "foxnews.com",
-      "trend": "neutral",
-      "trend_label": "⚪ Trung lập",
-      "title_vi": "Trump tiết lộ 'món quà' của Iran là xe tăng chở dầu đi qua eo biển Hormuz khi Israel giết chết chỉ huy hải quân | Cập nhật trực tiếp từ Fox News Digital",
-      "summary_vi": "Trump tiết lộ 'món quà' của Iran là xe tăng chở dầu đi qua eo biển Hormuz khi Israel giết chết chỉ huy hải quân |..."
     },
     {
       "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor",
