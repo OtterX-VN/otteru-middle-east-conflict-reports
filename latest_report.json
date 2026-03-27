@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-03-27 07:00",
+  "generated_at": "2026-03-27 11:00",
   "timezone": "UTC+7",
-  "total_original": 4,
-  "total_grouped": 4,
+  "total_original": 6,
+  "total_grouped": 6,
   "grouped_items": [
     {
-      "title": "Middle East | Latest News & Updates | BBC News",
+      "title": "Blasts heard in southern Beirut – as it happened | US-Israel war on Iran | The Guardian",
       "snippet": "",
       "sources": [
         {
-          "name": "bbc.com",
-          "url": "https://www.bbc.com/news/world/middle_east",
-          "age": "39 phút trước",
-          "title": "Middle East | Latest News & Updates | BBC News"
+          "name": "theguardian.com",
+          "url": "https://www.theguardian.com/world/live/2026/mar/26/iran-war-live-updates-trump-deal-us-military-strikes-israel-lebanon-hezbollah",
+          "age": "27 phút trước",
+          "title": "Blasts heard in southern Beirut – as it happened | US-Israel war on Iran | The Guardian"
         }
       ],
-      "url": "https://www.bbc.com/news/world/middle_east",
+      "url": "https://www.theguardian.com/world/live/2026/mar/26/iran-war-live-updates-trump-deal-us-military-strikes-israel-lebanon-hezbollah",
       "trust_boost": 2,
-      "display_source": "bbc.com",
-      "trend": "neutral",
-      "trend_label": "⚪ Trung lập",
-      "title_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC",
-      "summary_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC"
-    },
-    {
-      "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "tiktok.com",
-          "url": "https://www.tiktok.com/@prestonstew/video/7618376431936097566",
-          "age": "",
-          "title": "Allies reject Trump’s request for help in the Middle East  | TikTok"
-        }
-      ],
-      "url": "https://www.tiktok.com/@prestonstew/video/7618376431936097566",
-      "trust_boost": 0,
-      "display_source": "tiktok.com",
-      "trend": "neutral",
-      "trend_label": "⚪ Trung lập",
-      "title_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok",
-      "summary_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok"
-    },
-    {
-      "title": "Iran war latest: Trump 'pauses' threat to bomb Iran's energy facilities for 10 days - and says talks 'going very well' | World News | Sky News",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "news.sky.com",
-          "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
-          "age": "1 giờ trước",
-          "title": "Iran war latest: Trump 'pauses' threat to bomb Iran's energy facilities for 10 days - and says talks 'going very well' | World News | Sky News"
-        }
-      ],
-      "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
-      "trust_boost": 0,
-      "display_source": "news.sky.com",
+      "display_source": "theguardian.com",
       "trend": "up",
       "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Iran mới nhất: Trump 'tạm dừng' đe dọa ném bom các cơ sở năng lượng của Iran trong 10 ngày - và nói rằng các cuộc đàm phán 'diễn ra rất tốt' | Tin Thế Giới | Tin tức bầu trời",
-      "summary_vi": "Chiến tranh Iran mới nhất: Trump 'tạm dừng' đe dọa ném bom các cơ sở năng lượng của Iran trong 10 ngày - và nói rằng..."
+      "title_vi": "Vụ nổ nghe thấy ở miền nam Beirut – như đã xảy ra | Chiến tranh Mỹ-Israel ở Iran | Người bảo vệ",
+      "summary_vi": "Vụ nổ nghe thấy ở miền nam Beirut – như đã xảy ra | Chiến tranh Mỹ-Israel ở Iran | Người bảo vệ"
+    },
+    {
+      "title": "‘Tehran’s tollbooth’: a visual guide to how a trickle of ships still passes through strait of Hormuz | Strait of Hormuz | The Guardian",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/mar/26/strait-of-hormuz-visual-guide-trickle-of-ships-iran",
+          "age": "1 giờ trước",
+          "title": "‘Tehran’s tollbooth’: a visual guide to how a trickle of ships still passes through strait of Hormuz | Strait of Hormuz | The Guardian"
+        }
+      ],
+      "url": "https://www.theguardian.com/world/2026/mar/26/strait-of-hormuz-visual-guide-trickle-of-ships-iran",
+      "trust_boost": 2,
+      "display_source": "theguardian.com",
+      "trend": "neutral",
+      "trend_label": "⚪ Trung lập",
+      "title_vi": "'Trạm thu phí của Tehran': hướng dẫn trực quan về cách một dòng tàu nhỏ vẫn đi qua eo biển Hormuz | Eo biển Hormuz | Người bảo vệ",
+      "summary_vi": "'Trạm thu phí của Tehran': hướng dẫn trực quan về cách một dòng tàu nhỏ vẫn đi qua eo biển Hormuz | Eo biển Hormuz |..."
+    },
+    {
+      "title": "Live updates: Israel says it killed Iran navy chief; Trump warns Tehran to 'get serious' in talks 'before it is too late'",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "nbcnews.com",
+          "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-talks-israel-attacks-oil-hormuz-kharg-rcna265243",
+          "age": "5 phút trước",
+          "title": "Live updates: Israel says it killed Iran navy chief; Trump warns Tehran to 'get serious' in talks 'before it is too late'"
+        }
+      ],
+      "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-talks-israel-attacks-oil-hormuz-kharg-rcna265243",
+      "trust_boost": 0,
+      "display_source": "nbcnews.com",
+      "trend": "up",
+      "trend_label": "🔴 Leo thang",
+      "title_vi": "Cập nhật trực tiếp: Israel nói đã giết chỉ huy hải quân Iran; Trump cảnh báo Tehran hãy 'nghiêm túc' trong đàm phán 'trước khi quá muộn'",
+      "summary_vi": "Cập nhật trực tiếp: Israel nói đã giết chỉ huy hải quân Iran; Trump cảnh báo Tehran hãy 'nghiêm túc' trong đàm phán..."
     },
     {
       "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor",
@@ -79,6 +79,44 @@
       "trend_label": "⚪ Trung lập",
       "title_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực",
       "summary_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực"
+    },
+    {
+      "title": "Iranian 'present' was oil tanks passing through Strait of Hormuz, Trump reveals, as Israel kills navy commander | Live Updates from Fox News Digital",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "foxnews.com",
+          "url": "https://www.foxnews.com/live-news/us-israel-iran-war-strait-hormuz-updates-march-26",
+          "age": "47 phút trước",
+          "title": "Iranian 'present' was oil tanks passing through Strait of Hormuz, Trump reveals, as Israel kills navy commander | Live Updates from Fox News Digital"
+        }
+      ],
+      "url": "https://www.foxnews.com/live-news/us-israel-iran-war-strait-hormuz-updates-march-26",
+      "trust_boost": 0,
+      "display_source": "foxnews.com",
+      "trend": "neutral",
+      "trend_label": "⚪ Trung lập",
+      "title_vi": "Trump tiết lộ 'món quà' của Iran là xe tăng chở dầu đi qua eo biển Hormuz khi Israel giết chết chỉ huy hải quân | Cập nhật trực tiếp từ Fox News Digital",
+      "summary_vi": "Trump tiết lộ 'món quà' của Iran là xe tăng chở dầu đi qua eo biển Hormuz khi Israel giết chết chỉ huy hải quân |..."
+    },
+    {
+      "title": "Live Updates: Trump extends pause on striking Iranian energy plants; Witkoff floats 15-point peace proposal",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "cbsnews.com",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-tehran-denies-ceasefire-talks-strait-of-hormuz/",
+          "age": "16 phút trước",
+          "title": "Live Updates: Trump extends pause on striking Iranian energy plants; Witkoff floats 15-point peace proposal"
+        }
+      ],
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-tehran-denies-ceasefire-talks-strait-of-hormuz/",
+      "trust_boost": 0,
+      "display_source": "cbsnews.com",
+      "trend": "down",
+      "trend_label": "🟢 Làm dịu",
+      "title_vi": "Cập nhật trực tiếp: Trump kéo dài thời gian tạm dừng tấn công các nhà máy năng lượng của Iran; Witkoff đưa ra đề xuất hòa bình 15 điểm",
+      "summary_vi": "Cập nhật trực tiếp: Trump kéo dài thời gian tạm dừng tấn công các nhà máy năng lượng của Iran; Witkoff đưa ra đề..."
     }
   ]
 }
