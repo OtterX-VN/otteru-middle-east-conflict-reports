@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-03-27 23:00",
+  "generated_at": "2026-03-28 03:00",
   "timezone": "UTC+7",
   "total_original": 4,
   "total_grouped": 4,
   "grouped_items": [
     {
-      "title": "US-Israel war with Iran | Latest News and Updates | BBC News",
+      "title": "Middle East crisis live: Rubio claims Iran operation expected to conclude in ‘weeks not months’ | US-Israel war on Iran | The Guardian",
       "snippet": "",
       "sources": [
         {
-          "name": "bbc.com",
-          "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
-          "age": "48 phút trước",
-          "title": "US-Israel war with Iran | Latest News and Updates | BBC News"
+          "name": "theguardian.com",
+          "url": "https://www.theguardian.com/world/live/2026/mar/27/iran-war-live-updates-trump-negotiations-bombing-hormuz-energy-oil-prices-middle-east",
+          "age": "19 phút trước",
+          "title": "Middle East crisis live: Rubio claims Iran operation expected to conclude in ‘weeks not months’ | US-Israel war on Iran | The Guardian"
         }
       ],
-      "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
+      "url": "https://www.theguardian.com/world/live/2026/mar/27/iran-war-live-updates-trump-negotiations-bombing-hormuz-energy-oil-prices-middle-east",
       "trust_boost": 2,
-      "display_source": "bbc.com",
+      "display_source": "theguardian.com",
       "trend": "up",
       "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Mỹ-Israel với Iran | Tin tức và cập nhật mới nhất | tin tức BBC",
-      "summary_vi": "Chiến tranh Mỹ-Israel với Iran | Tin tức và cập nhật mới nhất | tin tức BBC"
+      "title_vi": "Trực tiếp cuộc khủng hoảng Trung Đông: Rubio tuyên bố hoạt động của Iran dự kiến ​​​​sẽ kết thúc sau 'tuần chứ không phải vài tháng' | Chiến tranh Mỹ-Israel ở Iran | Người bảo vệ",
+      "summary_vi": "Trực tiếp cuộc khủng hoảng Trung Đông: Rubio tuyên bố hoạt động của Iran dự kiến ​​​​sẽ kết thúc sau 'tuần chứ không..."
     },
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
@@ -43,14 +43,14 @@
       "summary_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok"
     },
     {
-      "title": "Iran-US war latest: Iran declares Strait of Hormuz closed and warns ships will face ‘harsh measures’ | The Independent",
+      "title": "Iran-US war latest: Tehran accuses Trump of breaking pause on energy strikes after Israel bombs nuclear and power sites | The Independent",
       "snippet": "",
       "sources": [
         {
           "name": "independent.co.uk",
           "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-oil-strait-of-hormuz-b2946724.html",
-          "age": "4 phút trước",
-          "title": "Iran-US war latest: Iran declares Strait of Hormuz closed and warns ships will face ‘harsh measures’ | The Independent"
+          "age": "1 giờ trước",
+          "title": "Iran-US war latest: Tehran accuses Trump of breaking pause on energy strikes after Israel bombs nuclear and power sites | The Independent"
         }
       ],
       "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-oil-strait-of-hormuz-b2946724.html",
@@ -58,8 +58,8 @@
       "display_source": "independent.co.uk",
       "trend": "up",
       "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Iran-Mỹ mới nhất: Iran tuyên bố đóng cửa eo biển Hormuz và cảnh báo tàu bè sẽ phải đối mặt với 'các biện pháp khắc nghiệt' | Độc lập",
-      "summary_vi": "Chiến tranh Iran-Mỹ mới nhất: Iran tuyên bố đóng cửa eo biển Hormuz và cảnh báo tàu bè sẽ phải đối mặt với 'các biện..."
+      "title_vi": "Chiến tranh Iran-Mỹ mới nhất: Tehran cáo buộc Trump tạm dừng tấn công năng lượng sau khi Israel ném bom các cơ sở năng lượng và hạt nhân | Độc lập",
+      "summary_vi": "Chiến tranh Iran-Mỹ mới nhất: Tehran cáo buộc Trump tạm dừng tấn công năng lượng sau khi Israel ném bom các cơ sở..."
     },
     {
       "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor",
