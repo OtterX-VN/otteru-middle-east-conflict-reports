@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-28 15:00",
+  "generated_at": "2026-03-28 19:00",
   "timezone": "UTC+7",
-  "total_original": 2,
-  "total_grouped": 2,
+  "total_original": 3,
+  "total_grouped": 3,
   "grouped_items": [
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
@@ -22,6 +22,25 @@
       "trend_label": "⚪ Trung lập",
       "title_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok",
       "summary_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok"
+    },
+    {
+      "title": "Iran-US war latest: Yemen’s Tehran-backed Houthi rebels launch ...",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "independent.co.uk",
+          "url": "https://independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-oil-strait-of-hormuz-b2946724.html",
+          "age": "3 phút trước",
+          "title": "Iran-US war latest: Yemen’s Tehran-backed Houthi rebels launch ..."
+        }
+      ],
+      "url": "https://independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-oil-strait-of-hormuz-b2946724.html",
+      "trust_boost": 0,
+      "display_source": "independent.co.uk",
+      "trend": "up",
+      "trend_label": "🔴 Leo thang",
+      "title_vi": "Chiến tranh Iran-Mỹ mới nhất: Phiến quân Houthi do Tehran hậu thuẫn của Yemen phát động ...",
+      "summary_vi": "Chiến tranh Iran-Mỹ mới nhất: Phiến quân Houthi do Tehran hậu thuẫn của Yemen phát động ..."
     },
     {
       "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor",
