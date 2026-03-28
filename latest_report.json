@@ -1,47 +1,9 @@
 {
-  "generated_at": "2026-03-28 11:00",
+  "generated_at": "2026-03-28 15:00",
   "timezone": "UTC+7",
-  "total_original": 7,
-  "total_grouped": 7,
+  "total_original": 2,
+  "total_grouped": 2,
   "grouped_items": [
-    {
-      "title": "Middle East | Latest News & Updates | BBC News",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "bbc.com",
-          "url": "https://www.bbc.com/news/world/middle_east",
-          "age": "45 phút trước",
-          "title": "Middle East | Latest News & Updates | BBC News"
-        }
-      ],
-      "url": "https://www.bbc.com/news/world/middle_east",
-      "trust_boost": 2,
-      "display_source": "bbc.com",
-      "trend": "neutral",
-      "trend_label": "⚪ Trung lập",
-      "title_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC",
-      "summary_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC"
-    },
-    {
-      "title": "UAE targeted with missiles and drones – as it happened | US-Israel war on Iran | The Guardian",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "theguardian.com",
-          "url": "https://www.theguardian.com/world/live/2026/mar/27/iran-war-live-updates-trump-negotiations-bombing-hormuz-energy-oil-prices-middle-east",
-          "age": "1 giờ trước",
-          "title": "UAE targeted with missiles and drones – as it happened | US-Israel war on Iran | The Guardian"
-        }
-      ],
-      "url": "https://www.theguardian.com/world/live/2026/mar/27/iran-war-live-updates-trump-negotiations-bombing-hormuz-energy-oil-prices-middle-east",
-      "trust_boost": 2,
-      "display_source": "theguardian.com",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "UAE nhắm mục tiêu bằng tên lửa và máy bay không người lái – như đã xảy ra | Chiến tranh Mỹ-Israel ở Iran | Người bảo vệ",
-      "summary_vi": "UAE nhắm mục tiêu bằng tên lửa và máy bay không người lái – như đã xảy ra | Chiến tranh Mỹ-Israel ở Iran | Người bảo vệ"
-    },
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
       "snippet": "",
@@ -62,44 +24,6 @@
       "summary_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok"
     },
     {
-      "title": "Iran-US war latest: Ten US service members injured after strike on Saudi air base as Rubio says war ‘over in weeks’ | The Independent",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "independent.co.uk",
-          "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-oil-strait-of-hormuz-b2946724.html",
-          "age": "15 phút trước",
-          "title": "Iran-US war latest: Ten US service members injured after strike on Saudi air base as Rubio says war ‘over in weeks’ | The Independent"
-        }
-      ],
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-oil-strait-of-hormuz-b2946724.html",
-      "trust_boost": 0,
-      "display_source": "independent.co.uk",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Iran-Mỹ mới nhất: Mười quân nhân Mỹ bị thương sau cuộc tấn công vào căn cứ không quân của Saudi khi Rubio nói rằng chiến tranh 'sẽ kết thúc sau vài tuần' | Độc lập",
-      "summary_vi": "Chiến tranh Iran-Mỹ mới nhất: Mười quân nhân Mỹ bị thương sau cuộc tấn công vào căn cứ không quân của Saudi khi..."
-    },
-    {
-      "title": "Iran War Live Updates: 12 U.S. Troops Injured in Attack on Saudi Base, Officials Say - The New York Times",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/03/27/world/iran-war-trump-oil-israel",
-          "age": "24 phút trước",
-          "title": "Iran War Live Updates: 12 U.S. Troops Injured in Attack on Saudi Base, Officials Say - The New York Times"
-        }
-      ],
-      "url": "https://www.nytimes.com/live/2026/03/27/world/iran-war-trump-oil-israel",
-      "trust_boost": 0,
-      "display_source": "nytimes.com",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Cập nhật trực tiếp về chiến tranh Iran: 12 lính Mỹ bị thương trong cuộc tấn công vào căn cứ Saudi, các quan chức cho biết",
-      "summary_vi": "Cập nhật trực tiếp về chiến tranh Iran: 12 lính Mỹ bị thương trong cuộc tấn công vào căn cứ Saudi, các quan chức cho..."
-    },
-    {
       "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor",
       "snippet": "",
       "sources": [
@@ -117,25 +41,6 @@
       "trend_label": "⚪ Trung lập",
       "title_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực",
       "summary_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực"
-    },
-    {
-      "title": "Iran says nuclear facilities have been attacked after Israel says attacks 'will escalate and expand' | PBS News",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "pbs.org",
-          "url": "https://www.pbs.org/newshour/world/israel-warns-attacks-on-iran-will-escalate-and-expand-as-trump-says-ceasefire-talks-are-going-very-well",
-          "age": "11 giờ trước",
-          "title": "Iran says nuclear facilities have been attacked after Israel says attacks 'will escalate and expand' | PBS News"
-        }
-      ],
-      "url": "https://www.pbs.org/newshour/world/israel-warns-attacks-on-iran-will-escalate-and-expand-as-trump-says-ceasefire-talks-are-going-very-well",
-      "trust_boost": 0,
-      "display_source": "pbs.org",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Iran cho biết các cơ sở hạt nhân đã bị tấn công sau khi Israel nói rằng các cuộc tấn công 'sẽ leo thang và mở rộng' | Tin tức PBS",
-      "summary_vi": "Iran cho biết các cơ sở hạt nhân đã bị tấn công sau khi Israel nói rằng các cuộc tấn công 'sẽ leo thang và mở rộng'..."
     }
   ]
 }
