@@ -1,18 +1,37 @@
 {
-  "generated_at": "2026-03-28 04:04",
+  "generated_at": "2026-03-28 07:00",
   "timezone": "UTC+7",
-  "total_original": 2,
-  "total_grouped": 2,
+  "total_original": 5,
+  "total_grouped": 5,
   "grouped_items": [
     {
-      "title": "Middle East crisis live: Rubio claims Iran operation expected to conclude in ‘weeks not months’ | US-Israel war on Iran | The Guardian",
+      "title": "Middle East | Latest News & Updates | BBC News",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "bbc.com",
+          "url": "https://www.bbc.com/news/world/middle_east",
+          "age": "1 giờ trước",
+          "title": "Middle East | Latest News & Updates | BBC News"
+        }
+      ],
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "trust_boost": 2,
+      "display_source": "bbc.com",
+      "trend": "neutral",
+      "trend_label": "⚪ Trung lập",
+      "title_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC",
+      "summary_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC"
+    },
+    {
+      "title": "Middle East crisis live: US ‘hopeful’ of Iran meetings this week after Rubio claims operation expected to conclude in weeks | US-Israel war on Iran | The Guardian",
       "snippet": "",
       "sources": [
         {
           "name": "theguardian.com",
           "url": "https://www.theguardian.com/world/live/2026/mar/27/iran-war-live-updates-trump-negotiations-bombing-hormuz-energy-oil-prices-middle-east",
-          "age": "16 phút trước",
-          "title": "Middle East crisis live: Rubio claims Iran operation expected to conclude in ‘weeks not months’ | US-Israel war on Iran | The Guardian"
+          "age": "3 phút trước",
+          "title": "Middle East crisis live: US ‘hopeful’ of Iran meetings this week after Rubio claims operation expected to conclude in weeks | US-Israel war on Iran | The Guardian"
         }
       ],
       "url": "https://www.theguardian.com/world/live/2026/mar/27/iran-war-live-updates-trump-negotiations-bombing-hormuz-energy-oil-prices-middle-east",
@@ -20,18 +39,37 @@
       "display_source": "theguardian.com",
       "trend": "up",
       "trend_label": "🔴 Leo thang",
-      "title_vi": "Trực tiếp cuộc khủng hoảng Trung Đông: Rubio tuyên bố hoạt động của Iran dự kiến ​​​​sẽ kết thúc sau 'tuần chứ không phải vài tháng' | Chiến tranh Mỹ-Israel ở Iran | Người bảo vệ",
-      "summary_vi": "Trực tiếp cuộc khủng hoảng Trung Đông: Rubio tuyên bố hoạt động của Iran dự kiến ​​​​sẽ kết thúc sau 'tuần chứ không..."
+      "title_vi": "Trực tiếp cuộc khủng hoảng Trung Đông: Mỹ 'hy vọng' về các cuộc họp với Iran trong tuần này sau khi Rubio tuyên bố hoạt động dự kiến ​​​​sẽ kết thúc sau vài tuần nữa | Chiến tranh Mỹ-Israel ở Iran | Người bảo vệ",
+      "summary_vi": "Trực tiếp cuộc khủng hoảng Trung Đông: Mỹ 'hy vọng' về các cuộc họp với Iran trong tuần này sau khi Rubio tuyên bố..."
     },
     {
-      "title": "Iran-US war latest: Tehran accuses Trump of breaking pause on energy strikes after Israel bombs nuclear and power sites | The Independent",
+      "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "tiktok.com",
+          "url": "https://www.tiktok.com/@prestonstew/video/7618376431936097566",
+          "age": "",
+          "title": "Allies reject Trump’s request for help in the Middle East  | TikTok"
+        }
+      ],
+      "url": "https://www.tiktok.com/@prestonstew/video/7618376431936097566",
+      "trust_boost": 0,
+      "display_source": "tiktok.com",
+      "trend": "neutral",
+      "trend_label": "⚪ Trung lập",
+      "title_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok",
+      "summary_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok"
+    },
+    {
+      "title": "Iran-US war latest: Ten US service members injured after strike on Saudi air base as Rubio says war ‘over in weeks’ | The Independent",
       "snippet": "",
       "sources": [
         {
           "name": "independent.co.uk",
           "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-oil-strait-of-hormuz-b2946724.html",
-          "age": "4 phút trước",
-          "title": "Iran-US war latest: Tehran accuses Trump of breaking pause on energy strikes after Israel bombs nuclear and power sites | The Independent"
+          "age": "22 phút trước",
+          "title": "Iran-US war latest: Ten US service members injured after strike on Saudi air base as Rubio says war ‘over in weeks’ | The Independent"
         }
       ],
       "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-oil-strait-of-hormuz-b2946724.html",
@@ -39,8 +77,27 @@
       "display_source": "independent.co.uk",
       "trend": "up",
       "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Iran-Mỹ mới nhất: Tehran cáo buộc Trump tạm dừng tấn công năng lượng sau khi Israel ném bom các cơ sở năng lượng và hạt nhân | Độc lập",
-      "summary_vi": "Chiến tranh Iran-Mỹ mới nhất: Tehran cáo buộc Trump tạm dừng tấn công năng lượng sau khi Israel ném bom các cơ sở..."
+      "title_vi": "Chiến tranh Iran-Mỹ mới nhất: Mười quân nhân Mỹ bị thương sau cuộc tấn công vào căn cứ không quân của Saudi khi Rubio nói rằng chiến tranh 'sẽ kết thúc sau vài tuần' | Độc lập",
+      "summary_vi": "Chiến tranh Iran-Mỹ mới nhất: Mười quân nhân Mỹ bị thương sau cuộc tấn công vào căn cứ không quân của Saudi khi..."
+    },
+    {
+      "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "hormuzstraitmonitor.com",
+          "url": "https://hormuzstraitmonitor.com/",
+          "age": "",
+          "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor"
+        }
+      ],
+      "url": "https://hormuzstraitmonitor.com/",
+      "trust_boost": 0,
+      "display_source": "hormuzstraitmonitor.com",
+      "trend": "neutral",
+      "trend_label": "⚪ Trung lập",
+      "title_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực",
+      "summary_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực"
     }
   ]
 }
