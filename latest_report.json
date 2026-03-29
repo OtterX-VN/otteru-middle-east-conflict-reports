@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-29 15:00",
+  "generated_at": "2026-03-29 16:05",
   "timezone": "UTC+7",
-  "total_original": 3,
-  "total_grouped": 3,
+  "total_original": 5,
+  "total_grouped": 5,
   "grouped_items": [
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
@@ -24,14 +24,14 @@
       "summary_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok"
     },
     {
-      "title": "Iran war latest: US 'preparing ground invasion' - as Tehran gives Monday deadline | World News | Sky News",
+      "title": "Iran war latest: Tehran warns its army is 'waiting' for US ground troops - as thousands of marines arrive in region | World News | Sky News",
       "snippet": "",
       "sources": [
         {
           "name": "news.sky.com",
           "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
-          "age": "16 phút trước",
-          "title": "Iran war latest: US 'preparing ground invasion' - as Tehran gives Monday deadline | World News | Sky News"
+          "age": "1 giờ trước",
+          "title": "Iran war latest: Tehran warns its army is 'waiting' for US ground troops - as thousands of marines arrive in region | World News | Sky News"
         }
       ],
       "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
@@ -39,8 +39,8 @@
       "display_source": "news.sky.com",
       "trend": "up",
       "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Iran mới nhất: Mỹ 'chuẩn bị xâm lược trên bộ' - khi Tehran đưa ra thời hạn thứ Hai | Tin Thế Giới | Tin tức bầu trời",
-      "summary_vi": "Chiến tranh Iran mới nhất: Mỹ 'chuẩn bị xâm lược trên bộ' - khi Tehran đưa ra thời hạn thứ Hai | Tin Thế Giới | Tin..."
+      "title_vi": "Chiến tranh Iran mới nhất: Tehran cảnh báo quân đội của họ đang 'chờ' lính bộ binh Mỹ - khi hàng nghìn lính thủy đánh bộ đến khu vực | Tin Thế Giới | Tin tức bầu trời",
+      "summary_vi": "Chiến tranh Iran mới nhất: Tehran cảnh báo quân đội của họ đang 'chờ' lính bộ binh Mỹ - khi hàng nghìn lính thủy..."
     },
     {
       "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor",
@@ -60,6 +60,44 @@
       "trend_label": "⚪ Trung lập",
       "title_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực",
       "summary_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực"
+    },
+    {
+      "title": "Iran-US war latest: Houthis launch second missile attack on Israel ...",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "independent.co.uk",
+          "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-oil-strait-of-hormuz-b2946724.html",
+          "age": "10 phút trước",
+          "title": "Iran-US war latest: Houthis launch second missile attack on Israel ..."
+        }
+      ],
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-oil-strait-of-hormuz-b2946724.html",
+      "trust_boost": 0,
+      "display_source": "independent.co.uk",
+      "trend": "up",
+      "trend_label": "🔴 Leo thang",
+      "title_vi": "Chiến tranh Iran-Mỹ mới nhất: Houthis tiến hành cuộc tấn công tên lửa thứ hai vào Israel ...",
+      "summary_vi": "Chiến tranh Iran-Mỹ mới nhất: Houthis tiến hành cuộc tấn công tên lửa thứ hai vào Israel ..."
+    },
+    {
+      "title": "Strait of Hormuz - Wikipedia",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "en.wikipedia.org",
+          "url": "https://en.wikipedia.org/wiki/Strait_of_Hormuz",
+          "age": "11 giờ trước",
+          "title": "Strait of Hormuz - Wikipedia"
+        }
+      ],
+      "url": "https://en.wikipedia.org/wiki/Strait_of_Hormuz",
+      "trust_boost": 0,
+      "display_source": "en.wikipedia.org",
+      "trend": "neutral",
+      "trend_label": "⚪ Trung lập",
+      "title_vi": "Eo biển Hormuz - Wikipedia",
+      "summary_vi": "Eo biển Hormuz - Wikipedia"
     }
   ]
 }
