@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-29 07:00",
+  "generated_at": "2026-03-29 11:00",
   "timezone": "UTC+7",
-  "total_original": 3,
-  "total_grouped": 3,
+  "total_original": 2,
+  "total_grouped": 2,
   "grouped_items": [
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
@@ -41,25 +41,6 @@
       "trend_label": "⚪ Trung lập",
       "title_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực",
       "summary_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực"
-    },
-    {
-      "title": "Iran-US war latest: Ship carrying thousands of Marines arrives ...",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "independent.co.uk",
-          "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-oil-strait-of-hormuz-b2946724.html",
-          "age": "24 phút trước",
-          "title": "Iran-US war latest: Ship carrying thousands of Marines arrives ..."
-        }
-      ],
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-oil-strait-of-hormuz-b2946724.html",
-      "trust_boost": 0,
-      "display_source": "independent.co.uk",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Iran-Mỹ mới nhất: Tàu chở hàng nghìn lính thủy đánh bộ đến...",
-      "summary_vi": "Chiến tranh Iran-Mỹ mới nhất: Tàu chở hàng nghìn lính thủy đánh bộ đến..."
     }
   ]
 }
