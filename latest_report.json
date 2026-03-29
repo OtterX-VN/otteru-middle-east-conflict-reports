@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-29 11:00",
+  "generated_at": "2026-03-29 15:00",
   "timezone": "UTC+7",
-  "total_original": 2,
-  "total_grouped": 2,
+  "total_original": 3,
+  "total_grouped": 3,
   "grouped_items": [
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
@@ -22,6 +22,25 @@
       "trend_label": "⚪ Trung lập",
       "title_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok",
       "summary_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok"
+    },
+    {
+      "title": "Iran war latest: US 'preparing ground invasion' - as Tehran gives Monday deadline | World News | Sky News",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "news.sky.com",
+          "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
+          "age": "16 phút trước",
+          "title": "Iran war latest: US 'preparing ground invasion' - as Tehran gives Monday deadline | World News | Sky News"
+        }
+      ],
+      "url": "https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
+      "trust_boost": 0,
+      "display_source": "news.sky.com",
+      "trend": "up",
+      "trend_label": "🔴 Leo thang",
+      "title_vi": "Chiến tranh Iran mới nhất: Mỹ 'chuẩn bị xâm lược trên bộ' - khi Tehran đưa ra thời hạn thứ Hai | Tin Thế Giới | Tin tức bầu trời",
+      "summary_vi": "Chiến tranh Iran mới nhất: Mỹ 'chuẩn bị xâm lược trên bộ' - khi Tehran đưa ra thời hạn thứ Hai | Tin Thế Giới | Tin..."
     },
     {
       "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor",
