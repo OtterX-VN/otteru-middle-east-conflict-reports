@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-29 03:00",
+  "generated_at": "2026-03-29 07:00",
   "timezone": "UTC+7",
-  "total_original": 5,
-  "total_grouped": 5,
+  "total_original": 3,
+  "total_grouped": 3,
   "grouped_items": [
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
@@ -24,25 +24,6 @@
       "summary_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok"
     },
     {
-      "title": "Iran war latest: Houthis' involvement 'broadens geopolitical spread of conflict' | World News | Sky News",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "news.sky.com",
-          "url": "https://news.sky.com/story/iran-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
-          "age": "1 giờ trước",
-          "title": "Iran war latest: Houthis' involvement 'broadens geopolitical spread of conflict' | World News | Sky News"
-        }
-      ],
-      "url": "https://news.sky.com/story/iran-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565",
-      "trust_boost": 0,
-      "display_source": "news.sky.com",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Iran mới nhất: Sự tham gia của Houthis 'mở rộng sự lan rộng địa chính trị của xung đột' | Tin Thế Giới | Tin tức bầu trời",
-      "summary_vi": "Chiến tranh Iran mới nhất: Sự tham gia của Houthis 'mở rộng sự lan rộng địa chính trị của xung đột' | Tin Thế Giới |..."
-    },
-    {
       "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor",
       "snippet": "",
       "sources": [
@@ -62,14 +43,14 @@
       "summary_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực"
     },
     {
-      "title": "Iran-US war latest: Assault ship carrying thousands of American ...",
+      "title": "Iran-US war latest: Ship carrying thousands of Marines arrives ...",
       "snippet": "",
       "sources": [
         {
           "name": "independent.co.uk",
           "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-oil-strait-of-hormuz-b2946724.html",
-          "age": "1 giờ trước",
-          "title": "Iran-US war latest: Assault ship carrying thousands of American ..."
+          "age": "24 phút trước",
+          "title": "Iran-US war latest: Ship carrying thousands of Marines arrives ..."
         }
       ],
       "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-oil-strait-of-hormuz-b2946724.html",
@@ -77,27 +58,8 @@
       "display_source": "independent.co.uk",
       "trend": "up",
       "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Iran-Mỹ mới nhất: Tàu tấn công chở hàng ngàn người Mỹ...",
-      "summary_vi": "Chiến tranh Iran-Mỹ mới nhất: Tàu tấn công chở hàng ngàn người Mỹ..."
-    },
-    {
-      "title": "Latest Analysis: War with Iran | CSIS",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "csis.org",
-          "url": "https://www.csis.org/programs/latest-analysis-war-iran",
-          "age": "11 giờ trước",
-          "title": "Latest Analysis: War with Iran | CSIS"
-        }
-      ],
-      "url": "https://www.csis.org/programs/latest-analysis-war-iran",
-      "trust_boost": 0,
-      "display_source": "csis.org",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Phân tích mới nhất: Chiến tranh với Iran | CSIS",
-      "summary_vi": "Phân tích mới nhất: Chiến tranh với Iran | CSIS"
+      "title_vi": "Chiến tranh Iran-Mỹ mới nhất: Tàu chở hàng nghìn lính thủy đánh bộ đến...",
+      "summary_vi": "Chiến tranh Iran-Mỹ mới nhất: Tàu chở hàng nghìn lính thủy đánh bộ đến..."
     }
   ]
 }
