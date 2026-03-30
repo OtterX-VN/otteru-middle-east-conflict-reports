@@ -1,28 +1,9 @@
 {
-  "generated_at": "2026-03-30 15:00",
+  "generated_at": "2026-03-30 16:04",
   "timezone": "UTC+7",
-  "total_original": 4,
-  "total_grouped": 4,
+  "total_original": 6,
+  "total_grouped": 6,
   "grouped_items": [
-    {
-      "title": "Middle East | Latest News & Updates | BBC News",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "bbc.com",
-          "url": "https://www.bbc.com/news/world/middle_east",
-          "age": "1 giờ trước",
-          "title": "Middle East | Latest News & Updates | BBC News"
-        }
-      ],
-      "url": "https://www.bbc.com/news/world/middle_east",
-      "trust_boost": 2,
-      "display_source": "bbc.com",
-      "trend": "neutral",
-      "trend_label": "⚪ Trung lập",
-      "title_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC",
-      "summary_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC"
-    },
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
       "snippet": "",
@@ -37,29 +18,25 @@
       "url": "https://www.tiktok.com/@prestonstew/video/7618376431936097566",
       "trust_boost": 0,
       "display_source": "tiktok.com",
-      "trend": "neutral",
-      "trend_label": "⚪ Trung lập",
       "title_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok",
-      "summary_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok"
+      "snippet_vi": ""
     },
     {
-      "title": "US deploys Marines to Middle East amid Pakistan peace talks | Live Updates from Fox News Digital",
+      "title": "TRT World - Live blog - US-Israeli war on Iran (Feb 28, 2026)",
       "snippet": "",
       "sources": [
         {
-          "name": "foxnews.com",
-          "url": "https://www.foxnews.com/live-news/us-iran-israel-war-live-updates-march-29",
+          "name": "trtworld.com",
+          "url": "https://www.trtworld.com/live/69a2a1d4e4ba8e89ecd092dc",
           "age": "1 giờ trước",
-          "title": "US deploys Marines to Middle East amid Pakistan peace talks | Live Updates from Fox News Digital"
+          "title": "TRT World - Live blog - US-Israeli war on Iran (Feb 28, 2026)"
         }
       ],
-      "url": "https://www.foxnews.com/live-news/us-iran-israel-war-live-updates-march-29",
+      "url": "https://www.trtworld.com/live/69a2a1d4e4ba8e89ecd092dc",
       "trust_boost": 0,
-      "display_source": "foxnews.com",
-      "trend": "down",
-      "trend_label": "🟢 Làm dịu",
-      "title_vi": "Mỹ triển khai Thủy quân lục chiến đến Trung Đông trong bối cảnh đàm phán hòa bình ở Pakistan | Cập nhật trực tiếp từ Fox News Digital",
-      "summary_vi": "Mỹ triển khai Thủy quân lục chiến đến Trung Đông trong bối cảnh đàm phán hòa bình ở Pakistan | Cập nhật trực tiếp từ..."
+      "display_source": "trtworld.com",
+      "title_vi": "TRT World - Blog trực tiếp - cuộc chiến Mỹ-Israel ở Iran (28/02/2026)",
+      "snippet_vi": ""
     },
     {
       "title": "INDIANS on Instagram: \"Three Indian Navy warships have ...",
@@ -75,10 +52,59 @@
       "url": "https://www.instagram.com/reel/DWBM2sXjan0/",
       "trust_boost": 0,
       "display_source": "instagram.com",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
       "title_vi": "INDIANS trên Instagram: \"Ba tàu chiến của Hải quân Ấn Độ có ...",
-      "summary_vi": "INDIANS trên Instagram: \"Ba tàu chiến của Hải quân Ấn Độ có ..."
+      "snippet_vi": ""
+    },
+    {
+      "title": "2026 Iran war - Wikipedia",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "en.wikipedia.org",
+          "url": "https://en.wikipedia.org/wiki/2026_Iran_war",
+          "age": "1 giờ trước",
+          "title": "2026 Iran war - Wikipedia"
+        }
+      ],
+      "url": "https://en.wikipedia.org/wiki/2026_Iran_war",
+      "trust_boost": 0,
+      "display_source": "en.wikipedia.org",
+      "title_vi": "Chiến tranh Iran 2026 - Wikipedia",
+      "snippet_vi": ""
+    },
+    {
+      "title": "US-Israel-Iran War Highlights: US prepares for ground operations near Iran's Strait of Hormuz, Kharg Island",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-middle-east-crisis-conflict-drone-missile-attack-gulf-countries-dubai-qatar-news-strait-of-hormuz-crude-oil-latest-news/liveblog/129823839.cms",
+          "age": "",
+          "title": "US-Israel-Iran War Highlights: US prepares for ground operations near Iran's Strait of Hormuz, Kharg Island"
+        }
+      ],
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-middle-east-crisis-conflict-drone-missile-attack-gulf-countries-dubai-qatar-news-strait-of-hormuz-crude-oil-latest-news/liveblog/129823839.cms",
+      "trust_boost": 0,
+      "display_source": "timesofindia.indiatimes.com",
+      "title_vi": "Điểm nổi bật trong chiến tranh Mỹ-Israel-Iran: Mỹ chuẩn bị cho các hoạt động trên bộ gần eo biển Hormuz, đảo Kharg của Iran",
+      "snippet_vi": ""
+    },
+    {
+      "title": "Middle East Special Issue: March 2026 | ACLED",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "acleddata.com",
+          "url": "https://acleddata.com/update/middle-east-special-issue-march-2026",
+          "age": "",
+          "title": "Middle East Special Issue: March 2026 | ACLED"
+        }
+      ],
+      "url": "https://acleddata.com/update/middle-east-special-issue-march-2026",
+      "trust_boost": 0,
+      "display_source": "acleddata.com",
+      "title_vi": "Số đặc biệt Trung Đông: Tháng 3 năm 2026 | ACLED",
+      "snippet_vi": ""
     }
   ]
 }
