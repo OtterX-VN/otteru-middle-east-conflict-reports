@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-30 07:00",
+  "generated_at": "2026-03-30 11:00",
   "timezone": "UTC+7",
-  "total_original": 3,
-  "total_grouped": 3,
+  "total_original": 2,
+  "total_grouped": 2,
   "grouped_items": [
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
@@ -41,25 +41,6 @@
       "trend_label": "⚪ Trung lập",
       "title_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực",
       "summary_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực"
-    },
-    {
-      "title": "Amid regional conflict, the Strait of Hormuz remains critical oil chokepoint - U.S. Energy Information Administration (EIA)",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "eia.gov",
-          "url": "https://www.eia.gov/todayinenergy/detail.php?id=65504",
-          "age": "",
-          "title": "Amid regional conflict, the Strait of Hormuz remains critical oil chokepoint - U.S. Energy Information Administration (EIA)"
-        }
-      ],
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=65504",
-      "trust_boost": 0,
-      "display_source": "eia.gov",
-      "trend": "neutral",
-      "trend_label": "⚪ Trung lập",
-      "title_vi": "Giữa xung đột khu vực, eo biển Hormuz vẫn là điểm nghẽn dầu mỏ quan trọng - Cơ quan Thông tin Năng lượng Hoa Kỳ (EIA)",
-      "summary_vi": "Giữa xung đột khu vực, eo biển Hormuz vẫn là điểm nghẽn dầu mỏ quan trọng - Cơ quan Thông tin Năng lượng Hoa Kỳ (EIA)"
     }
   ]
 }
