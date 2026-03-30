@@ -1,9 +1,28 @@
 {
-  "generated_at": "2026-03-30 11:00",
+  "generated_at": "2026-03-30 15:00",
   "timezone": "UTC+7",
-  "total_original": 2,
-  "total_grouped": 2,
+  "total_original": 4,
+  "total_grouped": 4,
   "grouped_items": [
+    {
+      "title": "Middle East | Latest News & Updates | BBC News",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "bbc.com",
+          "url": "https://www.bbc.com/news/world/middle_east",
+          "age": "1 giờ trước",
+          "title": "Middle East | Latest News & Updates | BBC News"
+        }
+      ],
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "trust_boost": 2,
+      "display_source": "bbc.com",
+      "trend": "neutral",
+      "trend_label": "⚪ Trung lập",
+      "title_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC",
+      "summary_vi": "Trung Đông | Tin tức & Cập nhật mới nhất | tin tức BBC"
+    },
     {
       "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
       "snippet": "",
@@ -24,23 +43,42 @@
       "summary_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok"
     },
     {
-      "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor",
+      "title": "US deploys Marines to Middle East amid Pakistan peace talks | Live Updates from Fox News Digital",
       "snippet": "",
       "sources": [
         {
-          "name": "hormuzstraitmonitor.com",
-          "url": "https://hormuzstraitmonitor.com/",
-          "age": "",
-          "title": "Strait of Hormuz Live Tracker — Real-Time Shipping & Oil Crisis Monitor"
+          "name": "foxnews.com",
+          "url": "https://www.foxnews.com/live-news/us-iran-israel-war-live-updates-march-29",
+          "age": "1 giờ trước",
+          "title": "US deploys Marines to Middle East amid Pakistan peace talks | Live Updates from Fox News Digital"
         }
       ],
-      "url": "https://hormuzstraitmonitor.com/",
+      "url": "https://www.foxnews.com/live-news/us-iran-israel-war-live-updates-march-29",
       "trust_boost": 0,
-      "display_source": "hormuzstraitmonitor.com",
-      "trend": "neutral",
-      "trend_label": "⚪ Trung lập",
-      "title_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực",
-      "summary_vi": "Strait of Hormuz Live Tracker — Giám sát khủng hoảng dầu và vận chuyển theo thời gian thực"
+      "display_source": "foxnews.com",
+      "trend": "down",
+      "trend_label": "🟢 Làm dịu",
+      "title_vi": "Mỹ triển khai Thủy quân lục chiến đến Trung Đông trong bối cảnh đàm phán hòa bình ở Pakistan | Cập nhật trực tiếp từ Fox News Digital",
+      "summary_vi": "Mỹ triển khai Thủy quân lục chiến đến Trung Đông trong bối cảnh đàm phán hòa bình ở Pakistan | Cập nhật trực tiếp từ..."
+    },
+    {
+      "title": "INDIANS on Instagram: \"Three Indian Navy warships have ...",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "instagram.com",
+          "url": "https://www.instagram.com/reel/DWBM2sXjan0/",
+          "age": "",
+          "title": "INDIANS on Instagram: \"Three Indian Navy warships have ..."
+        }
+      ],
+      "url": "https://www.instagram.com/reel/DWBM2sXjan0/",
+      "trust_boost": 0,
+      "display_source": "instagram.com",
+      "trend": "up",
+      "trend_label": "🔴 Leo thang",
+      "title_vi": "INDIANS trên Instagram: \"Ba tàu chiến của Hải quân Ấn Độ có ...",
+      "summary_vi": "INDIANS trên Instagram: \"Ba tàu chiến của Hải quân Ấn Độ có ..."
     }
   ]
 }
