@@ -1,84 +1,46 @@
 {
-  "generated_at": "2026-03-30 19:00",
+  "generated_at": "2026-03-30 23:00",
   "timezone": "UTC+7",
-  "total_original": 4,
-  "total_grouped": 4,
+  "total_original": 2,
+  "total_grouped": 2,
   "grouped_items": [
     {
-      "title": "US-Israel war with Iran | Latest News and Updates | BBC News",
+      "title": "Day 30 of Middle East conflict — Iran warns against US ground invasion | CNN",
       "snippet": "",
       "sources": [
         {
-          "name": "bbc.com",
-          "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
-          "age": "28 phút trước",
-          "title": "US-Israel war with Iran | Latest News and Updates | BBC News"
-        }
-      ],
-      "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
-      "trust_boost": 2,
-      "display_source": "bbc.com",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Mỹ-Israel với Iran | Tin tức và cập nhật mới nhất | tin tức BBC",
-      "summary_vi": "Chiến tranh Mỹ-Israel với Iran | Tin tức và cập nhật mới nhất | tin tức BBC"
-    },
-    {
-      "title": "Allies reject Trump’s request for help in the Middle East  | TikTok",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "tiktok.com",
-          "url": "https://www.tiktok.com/@prestonstew/video/7618376431936097566",
-          "age": "",
-          "title": "Allies reject Trump’s request for help in the Middle East  | TikTok"
-        }
-      ],
-      "url": "https://www.tiktok.com/@prestonstew/video/7618376431936097566",
-      "trust_boost": 0,
-      "display_source": "tiktok.com",
-      "trend": "neutral",
-      "trend_label": "⚪ Trung lập",
-      "title_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok",
-      "summary_vi": "Đồng minh từ chối yêu cầu giúp đỡ của Trump ở Trung Đông | TikTok"
-    },
-    {
-      "title": "INDIANS on Instagram: \"Three Indian Navy warships have ...",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "instagram.com",
-          "url": "https://www.instagram.com/reel/DWBM2sXjan0/",
-          "age": "",
-          "title": "INDIANS on Instagram: \"Three Indian Navy warships have ..."
-        }
-      ],
-      "url": "https://www.instagram.com/reel/DWBM2sXjan0/",
-      "trust_boost": 0,
-      "display_source": "instagram.com",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "INDIANS trên Instagram: \"Ba tàu chiến của Hải quân Ấn Độ có ...",
-      "summary_vi": "INDIANS trên Instagram: \"Ba tàu chiến của Hải quân Ấn Độ có ..."
-    },
-    {
-      "title": "ON CAM: Iran SHOOTS DOWN American MQ-9 Aircraft Near Strait Of Hormuz, IRGC Drops Bombshell Video",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "timesofindia.indiatimes.com",
-          "url": "https://timesofindia.indiatimes.com/videos/international/on-cam-iran-shoots-down-american-mq-9-aircraft-near-strait-of-hormuz-irgc-drops-bombshell-video/videoshow/129889365.cms",
+          "name": "cnn.com",
+          "url": "https://www.cnn.com/2026/03/29/world/live-news/iran-war-us-israel-trump",
           "age": "11 giờ trước",
-          "title": "ON CAM: Iran SHOOTS DOWN American MQ-9 Aircraft Near Strait Of Hormuz, IRGC Drops Bombshell Video"
+          "title": "Day 30 of Middle East conflict — Iran warns against US ground invasion | CNN"
         }
       ],
-      "url": "https://timesofindia.indiatimes.com/videos/international/on-cam-iran-shoots-down-american-mq-9-aircraft-near-strait-of-hormuz-irgc-drops-bombshell-video/videoshow/129889365.cms",
-      "trust_boost": 0,
-      "display_source": "timesofindia.indiatimes.com",
+      "url": "https://www.cnn.com/2026/03/29/world/live-news/iran-war-us-israel-trump",
+      "trust_boost": 1,
+      "display_source": "cnn.com",
       "trend": "up",
       "trend_label": "🔴 Leo thang",
-      "title_vi": "TRÊN CAM: Iran bắn hạ máy bay MQ-9 của Mỹ gần eo biển Hormuz, IRGC thả video vỏ bom",
-      "summary_vi": "TRÊN CAM: Iran bắn hạ máy bay MQ-9 của Mỹ gần eo biển Hormuz, IRGC thả video vỏ bom"
+      "title_vi": "Ngày thứ 30 xung đột ở Trung Đông – Iran cảnh báo chống lại cuộc xâm lược trên bộ của Mỹ | CNN",
+      "summary_vi": "Ngày thứ 30 xung đột ở Trung Đông – Iran cảnh báo chống lại cuộc xâm lược trên bộ của Mỹ | CNN"
+    },
+    {
+      "title": "Iran War Live Updates: Trump Renews Energy Site Threats After Claiming Progress in Peace Talks - The New York Times",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "nytimes.com",
+          "url": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news",
+          "age": "47 phút trước",
+          "title": "Iran War Live Updates: Trump Renews Energy Site Threats After Claiming Progress in Peace Talks - The New York Times"
+        }
+      ],
+      "url": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news",
+      "trust_boost": 0,
+      "display_source": "nytimes.com",
+      "trend": "up",
+      "trend_label": "🔴 Leo thang",
+      "title_vi": "Cập nhật trực tiếp về Chiến tranh Iran: Trump gia hạn các mối đe dọa về địa điểm năng lượng sau khi tuyên bố tiến bộ trong các cuộc đàm phán hòa bình",
+      "summary_vi": "Cập nhật trực tiếp về Chiến tranh Iran: Trump gia hạn các mối đe dọa về địa điểm năng lượng sau khi tuyên bố tiến bộ..."
     }
   ]
 }
