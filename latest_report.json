@@ -1,27 +1,46 @@
 {
-  "generated_at": "2026-03-31 07:00",
+  "generated_at": "2026-03-31 11:00",
   "timezone": "UTC+7",
-  "total_original": 1,
-  "total_grouped": 1,
+  "total_original": 2,
+  "total_grouped": 2,
   "grouped_items": [
     {
-      "title": "Iran War Live Updates: Israel Vows to Seize More Territory in Lebanon and Strikes Hit Iranian Port - The New York Times",
+      "title": "Iran War Live Updates: Kuwaiti Tanker Full of Oil Struck Off Dubai Day After Trump’s Threats - The New York Times",
       "snippet": "",
       "sources": [
         {
           "name": "nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil",
-          "age": "1 giờ trước",
-          "title": "Iran War Live Updates: Israel Vows to Seize More Territory in Lebanon and Strikes Hit Iranian Port - The New York Times"
+          "url": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news",
+          "age": "8 phút trước",
+          "title": "Iran War Live Updates: Kuwaiti Tanker Full of Oil Struck Off Dubai Day After Trump’s Threats - The New York Times"
         }
       ],
-      "url": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil",
+      "url": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news",
       "trust_boost": 0,
       "display_source": "nytimes.com",
       "trend": "up",
       "trend_label": "🔴 Leo thang",
-      "title_vi": "Cập nhật trực tiếp về Chiến tranh Iran: Israel thề sẽ chiếm thêm lãnh thổ ở Lebanon và tấn công cảng Iran - Thời báo New York",
-      "summary_vi": "Cập nhật trực tiếp về Chiến tranh Iran: Israel thề sẽ chiếm thêm lãnh thổ ở Lebanon và tấn công cảng Iran - Thời báo..."
+      "title_vi": "Cập nhật trực tiếp về Chiến tranh Iran: Tàu chở dầu Kuwait đầy dầu bị mắc kẹt ở Dubai sau những lời đe dọa của Trump - The New York Times",
+      "summary_vi": "Cập nhật trực tiếp về Chiến tranh Iran: Tàu chở dầu Kuwait đầy dầu bị mắc kẹt ở Dubai sau những lời đe dọa của Trump..."
+    },
+    {
+      "title": "Live Updates: Trump renews threat to Iran's power plants as war sends oil prices soaring again",
+      "snippet": "",
+      "sources": [
+        {
+          "name": "cbsnews.com",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-uncertainty-oil-prices-strait-of-hormuz-houthis-red-sea/",
+          "age": "21 phút trước",
+          "title": "Live Updates: Trump renews threat to Iran's power plants as war sends oil prices soaring again"
+        }
+      ],
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-uncertainty-oil-prices-strait-of-hormuz-houthis-red-sea/",
+      "trust_boost": 0,
+      "display_source": "cbsnews.com",
+      "trend": "up",
+      "trend_label": "🔴 Leo thang",
+      "title_vi": "Cập nhật trực tiếp: Trump gia hạn mối đe dọa đối với các nhà máy điện của Iran khi chiến tranh khiến giá dầu tăng vọt trở lại",
+      "summary_vi": "Cập nhật trực tiếp: Trump gia hạn mối đe dọa đối với các nhà máy điện của Iran khi chiến tranh khiến giá dầu tăng..."
     }
   ]
 }
