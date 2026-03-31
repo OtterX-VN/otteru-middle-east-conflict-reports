@@ -1,46 +1,27 @@
 {
-  "generated_at": "2026-03-31 03:00",
+  "generated_at": "2026-03-31 07:00",
   "timezone": "UTC+7",
-  "total_original": 2,
-  "total_grouped": 2,
+  "total_original": 1,
+  "total_grouped": 1,
   "grouped_items": [
     {
-      "title": "US-Israel war with Iran | Latest News and Updates | BBC News",
+      "title": "Iran War Live Updates: Israel Vows to Seize More Territory in Lebanon and Strikes Hit Iranian Port - The New York Times",
       "snippet": "",
       "sources": [
         {
-          "name": "bbc.com",
-          "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
+          "name": "nytimes.com",
+          "url": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil",
           "age": "1 giờ trước",
-          "title": "US-Israel war with Iran | Latest News and Updates | BBC News"
+          "title": "Iran War Live Updates: Israel Vows to Seize More Territory in Lebanon and Strikes Hit Iranian Port - The New York Times"
         }
       ],
-      "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
-      "trust_boost": 2,
-      "display_source": "bbc.com",
-      "trend": "up",
-      "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Mỹ-Israel với Iran | Tin tức và cập nhật mới nhất | tin tức BBC",
-      "summary_vi": "Chiến tranh Mỹ-Israel với Iran | Tin tức và cập nhật mới nhất | tin tức BBC"
-    },
-    {
-      "title": "Iran War: How High Could Oil Prices Get with Strait of Hormuz Closure?",
-      "snippet": "",
-      "sources": [
-        {
-          "name": "bloomberg.com",
-          "url": "https://www.bloomberg.com/graphics/2026-iran-war-hormuz-closure-oil-shock/",
-          "age": "11 giờ trước",
-          "title": "Iran War: How High Could Oil Prices Get with Strait of Hormuz Closure?"
-        }
-      ],
-      "url": "https://www.bloomberg.com/graphics/2026-iran-war-hormuz-closure-oil-shock/",
+      "url": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil",
       "trust_boost": 0,
-      "display_source": "bloomberg.com",
+      "display_source": "nytimes.com",
       "trend": "up",
       "trend_label": "🔴 Leo thang",
-      "title_vi": "Chiến tranh Iran: Giá dầu có thể tăng cao đến mức nào khi eo biển Hormuz đóng cửa?",
-      "summary_vi": "Chiến tranh Iran: Giá dầu có thể tăng cao đến mức nào khi eo biển Hormuz đóng cửa?"
+      "title_vi": "Cập nhật trực tiếp về Chiến tranh Iran: Israel thề sẽ chiếm thêm lãnh thổ ở Lebanon và tấn công cảng Iran - Thời báo New York",
+      "summary_vi": "Cập nhật trực tiếp về Chiến tranh Iran: Israel thề sẽ chiếm thêm lãnh thổ ở Lebanon và tấn công cảng Iran - Thời báo..."
     }
   ]
 }
